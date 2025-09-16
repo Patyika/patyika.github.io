@@ -1,0 +1,3778 @@
+HWiNFO® 64 Version 8.30-5800
+
+HYPERBOLE -----------------------------------------------------------------
+
+ [Current Computer]
+  Computer Name:                          HYPERBOLE
+  Computer Brand Name:                    GIGABYTE EX58-UD5
+ [Operating System]
+  Operating System:                       Microsoft Windows 10 Professional N (x64) Build 19045.6332 (22H2)
+  UEFI Boot:                              Not Present
+  Secure Boot:                            Not Capable
+  Hypervisor-protected Code Integrity (HVCI): Disabled
+
+Central Processor(s) ------------------------------------------------------
+
+ [CPU Unit Count]
+  Number Of Processor Packages (Physical): 1
+  Number Of Processor Cores:              4
+  Number Of Logical Processors:           8
+
+Intel Core i7-920 ---------------------------------------------------------
+
+ [General Information]
+  Processor Name:                         Intel Core i7-920
+  Original Processor Frequency:           2666.7 MHz
+  Original Processor Frequency [MHz]:     2667
+  CPU ID:                                 000106A5
+  CPU Brand Name:                         Intel(R) Core(TM) i7 CPU         920  @ 2.67GHz
+  CPU Vendor:                             GenuineIntel
+  CPU Stepping:                           D0
+  CPU Code Name:                          Bloomfield
+  CPU Technology:                         45 nm
+  CPU S-Spec:                             SLBEJ
+  CPU Thermal Design Power (TDP):         130.0 W
+  CPU Thermal Design Current (TDC):       110.0 A
+  CPU Max. Case Temperature (Tcase_max):  67.9 °C
+  CPU Max. Junction Temperature (Tj,max): 100 °C
+  CPU Type:                               Production Unit
+  CPU Platform:                           Socket B1 (LGA1366 FC-LGA6)
+  Microcode Update Revision:              1D
+  Number of CPU Cores:                    4
+  Number of Logical CPUs:                 8
+ [Operating Points]
+  CPU LFM (Minimum):                      1600.0 MHz = 12 x 133.3 MHz
+  CPU HFM (Base):                         2666.7 MHz = 20 x 133.3 MHz
+  CPU Turbo Max:                          2933.3 MHz = 22 x 133.3 MHz [Locked]
+  CPU Current:                            2798.6 MHz = 21 x 133.3 MHz
+  Uncore Current:                         2665.4 MHz = 20.00 x 133.3 MHz
+  CPU Bus Type:                           Intel QuickPath Interconnect (QPI) v1.0
+  Number of QPI Links per CPU:            1
+  Maximum Supported QPI Link Clock:       2400 MHz (4.80 GT/s) [Unlimited]
+  Current QPI Link Clock:                 2398 MHz (4.80 GT/s)
+ [Cache and TLB]
+  L1 Cache:                               Instruction: 4 x 32 KBytes, Data: 4 x 32 KBytes
+  L2 Cache:                               Integrated: 4 x 256 KBytes
+  L3 Cache:                               8 MBytes
+  Instruction TLB:                        2MB/4MB Pages, Fully associative, 7 entries
+  Data TLB:                               4 KB Pages, 4-way set associative, 64 entries
+ [Standard Feature Flags]
+  FPU on Chip                             Present
+  Enhanced Virtual-86 Mode                Present
+  I/O Breakpoints                         Present
+  Page Size Extensions                    Present
+  Time Stamp Counter                      Present
+  Pentium-style Model Specific Registers  Present
+  Physical Address Extension              Present
+  Machine Check Exception                 Present
+  CMPXCHG8B Instruction                   Present
+  APIC On Chip / PGE (AMD)                Present
+  Fast System Call                        Present
+  Memory Type Range Registers             Present
+  Page Global Feature                     Present
+  Machine Check Architecture              Present
+  CMOV Instruction                        Present
+  Page Attribute Table                    Present
+  36-bit Page Size Extensions             Present
+  Processor Number                        Not Present
+  CLFLUSH Instruction                     Present
+  Debug Trace and EMON Store              Present
+  Internal ACPI Support                   Present
+  MMX Technology                          Present
+  Fast FP Save/Restore (IA MMX-2)         Present
+  Streaming SIMD Extensions               Present
+  Streaming SIMD Extensions 2             Present
+  Self-Snoop                              Present
+  Multi-Threading Capable                 Present
+  Automatic Clock Control                 Present
+  IA-64 Processor                         Not Present
+  Signal Break on FERR                    Present
+  Virtual Machine Extensions (VMX)        Present
+  Safer Mode Extensions (Intel TXT)       Not Present
+  Streaming SIMD Extensions 3             Present
+  Supplemental Streaming SIMD Extensions 3 Present
+  Streaming SIMD Extensions 4.1           Present
+  Streaming SIMD Extensions 4.2           Present
+  AVX Support                             Not Present
+  Fused Multiply Add (FMA)                Not Present
+  Carryless Multiplication (PCLMULQDQ)/GFMUL Not Present
+  CMPXCHG16B Support                      Present
+  MOVBE Instruction                       Not Present
+  POPCNT Instruction                      Present
+  XSAVE/XRSTOR/XSETBV/XGETBV Instructions Not Present
+  XGETBV/XSETBV OS Enabled                Not Present
+  Float16 Instructions                    Not Present
+  AES Cryptography Support                Not Present
+  Random Number Read Instruction (RDRAND) Not Present
+  Extended xAPIC                          Not Present
+  MONITOR/MWAIT Support                   Present
+  Thermal Monitor 2                       Present
+  Enhanced SpeedStep Technology           Present
+  L1 Context ID                           Not Present
+  Send Task Priority Messages Disabling   Present
+  Processor Context ID                    Not Present
+  Direct Cache Access                     Not Present
+  TSC-deadline Timer                      Not Present
+  Performance/Debug Capability MSR        Present
+  IA32 Debug Interface Support            Not Present
+  64-Bit Debug Store                      Present
+  CPL Qualified Debug Store               Present
+ [Extended Feature Flags]
+  64-bit Extensions                       Present
+  RDTSCP and TSC_AUX Support              Present
+  1 GB large page support                 Not Present
+  No Execute                              Present
+  SYSCALL/SYSRET Support                  Present
+  Bit Manipulation Instructions Set 1     Not Present
+  Bit Manipulation Instructions Set 2     Not Present
+  Advanced Vector Extensions 2 (AVX2)     Not Present
+  Advanced Vector Extensions 512 (AVX-512) Foundation Not Present
+  AVX-512 Prefetch Instructions           Not Present
+  AVX-512 Exponential and Reciprocal Instructions Not Present
+  AVX-512 Conflict Detection Instructions Not Present
+  AVX-512 Doubleword and Quadword Instructions Not Present
+  AVX-512 Byte and Word Instructions      Not Present
+  AVX-512 Vector Length Extensions        Not Present
+  AVX-512 52-bit Integer FMA Instructions Not Present
+  Secure Hash Algorithm (SHA) Extensions  Not Present
+  Software Guard Extensions (SGX) Support Not Present
+  Supervisor Mode Execution Protection (SMEP) Not Present
+  Supervisor Mode Access Prevention (SMAP) Not Present
+  Hardware Lock Elision (HLE)             Not Present
+  Restricted Transactional Memory (RTM)   Not Present
+  Memory Protection Extensions (MPX)      Not Present
+  Read/Write FS/GS Base Instructions      Not Present
+  Enhanced Performance String Instruction Not Present
+  INVPCID Instruction                     Not Present
+  RDSEED Instruction                      Not Present
+  Multi-precision Add Carry Instructions (ADX) Not Present
+  PCOMMIT Instructions                    Not Present
+  CLFLUSHOPT Instructions                 Not Present
+  CLWB Instructions                       Not Present
+  Time-Stamp Counter Adjustment           Not Present
+  Platform Quality of Service Monitoring (PQM) Not Present
+  Platform Quality of Service Enforcement (PQE) Not Present
+  FPU Data Pointer updated only on x87 Exceptions Not Present
+  Deprecated FPU CS and FPU DS            Not Present
+  Intel Processor Trace                   Not Present
+  PREFETCHWT1 Instruction                 Not Present
+  AVX-512 Vector Bit Manipulation Instructions Not Present
+  AVX-512 Vector Bit Manipulation Instructions 2 Not Present
+  AVX-512 Galois Fields New Instructions  Not Present
+  AVX-512 Vector AES                      Not Present
+  AVX-512 Vector Neural Network Instructions Not Present
+  AVX-512 Bit Algorithms                  Not Present
+  AVX-512 Carry-Less Multiplication Quadword (VPCLMULQDQ) Not Present
+  AVX-512 Vector POPCNT (VPOPCNTD/VPOPCNTQ) Not Present
+  User-Mode Instruction Prevention        Not Present
+  Protection Keys for User-mode Pages     Not Present
+  OS Enabled Protection Keys              Not Present
+  Wait and Pause Enhancements (WAITPKG)   Not Present
+  Total Memory Encryption                 Not Present
+  Key Locker                              Not Present
+  57-bit Linear Addresses, 5-level Paging Not Present
+  Read Processor ID                       Not Present
+  OS Bus-Lock Detection                   Not Present
+  Cache Line Demote                       Not Present
+  MOVDIRI: Direct Stores                  Not Present
+  MOVDIR64B: Direct Stores                Not Present
+  ENQCMD: Enqueue Stores                  Not Present
+  SGX Launch Configuration                Not Present
+  Protection Keys for Supervisor-Mode Pages Not Present
+  Control-Flow Enforcement Technology (CET) Shadow Stack Not Present
+  Attestation Services for Intel SGX      Not Present
+  AVX-512 4 x Vector Neural Network Instructions Word Variable Precision Not Present
+  AVX-512 4 x Fused Multiply Accumulation Packed Single Precision Not Present
+  Fast Short REP MOV                      Not Present
+  User Interrupts                         Not Present
+  AVX-512 VP2INTERSECT Support            Not Present
+  AVX-512 FP16                            Not Present
+  MD_CLEAR Support                        Not Present
+  IA32_MCU_OPT_CTRL MSR Support           Not Present
+  Restricted Transactional Memory (RTM) Always Abort Not Present
+  Restricted Transactional Memory (RTM) Force Abort Not Present
+  SERIALIZE                               Not Present
+  Hybrid Processor                        Not Present
+  TSX Suspend Load Address Tracking       Not Present
+  Platform Configuration (PCONFIG)        Not Present
+  Architectural LBRs                      Not Present
+  Indirect Branch Restricted Speculation (IBRS), Indirect Branch Predictor Barrier (IBPB) Present
+  Single Thread Indirect Branch Predictors (STIBP) Present
+  L1D_FLUSH Support                       Present
+  IA32_ARCH_CAPABILITIES MSR              Not Present
+  IA32_CORE_CAPABILITIES MSR              Not Present
+  Speculative Store Bypass Disable (SSBD) Present
+  Control-Flow Enforcement Technology (CET) Indirect Branch Tracking Not Present
+  Advanced Matrix Extensions (AMX) Tile Architecture Not Present
+  Advanced Matrix Extensions (AMX) bfloat16 Support Not Present
+  Advanced Matrix Extensions (AMX) 8-bit Integer Operations Not Present
+  SHA512 Instructions                     Not Present
+  SM3 Instructions                        Not Present
+  SM4 Instructions                        Not Present
+  Advanced Matrix Extensions (AMX) FP16 Instructions Not Present
+  AVX (VEX-encoded) Vector Neural Network Instructions Not Present
+  AVX-512 BFLOAT16 Instructions           Not Present
+  Fast Zero-Length MOVSB                  Not Present
+  Fast Short STOSB                        Not Present
+  Fast Short CMPSB, SCASB                 Not Present
+  History Reset                           Not Present
+  Linear Address Masking                  Not Present
+  Linear Address Space Separation         Not Present
+  RAO-INT Instructions                    Not Present
+  CMPccXADD Instructions                  Not Present
+  Flexible Return and Event Delivery (FRED) Not Present
+  LKGS Instruction                        Not Present
+  WRMSRNS Instruction                     Not Present
+  NMI-source Reporting                    Not Present
+  AVX-IFMA Instructions                   Not Present
+  RD/WR MSRLIST Instructions              Not Present
+  INVD Execution Prevention After BIOS-Done Not Present
+  Move Read-Shared Value (MOVRS)          Not Present
+  Protected Processor Inventory Number (IA32_PPIN) Support Not Present
+  PBNDKB Instruction                      Not Present
+  X86S (Legacy-reduced OS ISA)            Not Present
+  64-bit SIPI                             Not Present
+  RDMSR/WRMSR Immediate Forms             Not Present
+  AVX-VNNI-INT8 Instructions              Not Present
+  AVX-VNNI-INT16 Instructions             Not Present
+  AVX-NE-CONVERT Instructions             Not Present
+  PREFETCHIT0/1 Instructions              Not Present
+  URDMSR/UWRMSR Instructions              Not Present
+  AMX-COMPLEX Instructions                Not Present
+  CET Supervisor Shadow-Stack             Not Present
+  UIRET Support                           Not Present
+  User-Timer Events                       Not Present
+  MWAIT Instruction                       Not Present
+  Static Lockstep Mode                    Not Present
+  Advanced Vector Extensions 10 (AVX10)   Not Present
+  Advanced Performance Extensions (APX) Foundation Not Present
+  Not Exhibiting MXCSR Configuration Dependent Timing (MCDT) Not Present
+  UC-Lock Disable Feature                 Not Present
+ [Enhanced Features]
+  Thermal Monitor 1:                      Supported, Enabled
+  Thermal Monitor 2:                      Supported, Enabled
+  Enhanced Intel SpeedStep (GV3):         Supported, Enabled
+  Bi-directional PROCHOT#:                Enabled
+  Extended Auto-HALT State C1E:           N/A
+  MLC Streamer Prefetcher                 Supported, Enabled
+  MLC Spatial Prefetcher                  Supported, Enabled
+  DCU Streamer Prefetcher                 Supported, Enabled
+  DCU IP Prefetcher                       Supported, Enabled
+  Intel Dynamic Acceleration (IDA) Technology: Not Supported
+  Intel Dynamic FSB Switching:            Not Supported
+  Intel Turbo Boost Technology:           Supported, Enabled
+  Programmable Ratio Limits:              Not Supported
+  Programmable TDC/TDP Limits:            Not Supported
+  Hardware Duty Cycling:                  Not Supported
+  Intel Speed Select:                     Not Supported
+ [Memory Ranges]
+  Maximum Physical Address Size:          36-bit (64 GBytes)
+  Maximum Virtual Address Size:           48-bit (256 TBytes)
+ [MTRRs]
+  Range 0-100000000 (0MB-4096MB) Type:    Write Back (WB)
+  Range E0000000-100000000 (3584MB-4096MB) Type: Uncacheable (UC)
+  Range D0000000-E0000000 (3328MB-3584MB) Type: Uncacheable (UC)
+  Range 100000000-200000000 (4096MB-8192MB) Type: Write Back (WB)
+  Range 200000000-300000000 (8192MB-12288MB) Type: Write Back (WB)
+  Range 2C0000000-300000000 (11264MB-12288MB) Type: Uncacheable (UC)
+  Range 2B0000000-2C0000000 (11008MB-11264MB) Type: Uncacheable (UC)
+
+Motherboard ---------------------------------------------------------------
+
+ [Computer]
+  Computer Brand Name:                    GIGABYTE EX58-UD5
+ [Motherboard]
+  Motherboard Model:                      GIGABYTE EX58-UD5
+  Motherboard Chipset:                    Intel X58 (Tylersburg 36S) + ICH10R
+  Motherboard Slots:                      2xPCI, 4xPCI Express x1, 1xPCI Express x16
+  PCI Express Version Supported:          v2.0
+  USB Version Supported:                  v2.0
+ [ICH10 Features]
+  Intel AMT Support:                      Not Supported
+  SATA RAID 0/1/5/10:                     Supported
+ [BIOS]
+  BIOS Manufacturer:                      Award Modular BIOS v6.00PG
+  BIOS Date:                              01/10/2012
+  BIOS Version:                           F13
+  UEFI BIOS:                              Not Capable
+  Super-IO/LPC Chip:                      ITE IT8720F
+  Trusted Platform Module (TPM) Chip:     Not Found
+
+ACPI Devices --------------------------------------------------------------
+
+
+Legacy device -------------------------------------------------------------
+
+  Device Name:                            Legacy device
+ [Assigned Resources]
+  Memory Location:                        FFB80000 - FFBFFFFF
+ [Alternative 1]
+  Memory Location:                        FFB80000 - FFBFFFFF
+
+Programmable interrupt controller -----------------------------------------
+
+  Device Name:                            Programmable interrupt controller
+ [Assigned Resources]
+  I/O Port:                               0020 - 0021
+  IRQ:                                    65792
+ [Alternative 1]
+  I/O Port:                               0020 - 0021
+  I/O Port:                               00A0 - 00A1
+
+System timer --------------------------------------------------------------
+
+  Device Name:                            System timer
+ [Assigned Resources]
+  I/O Port:                               0040 - 0043
+ [Alternative 1]
+  I/O Port:                               0040 - 0043
+
+High precision event timer ------------------------------------------------
+
+  Device Name:                            High precision event timer
+ [Assigned Resources]
+  IRQ:                                    0
+ [Alternative 1]
+  Memory Location:                        FED00000
+  IRQ:                                    0
+  IRQ:                                    8
+
+Direct memory access controller -------------------------------------------
+
+  Device Name:                            Direct memory access controller
+ [Assigned Resources]
+  DMA:                                    4
+ [Alternative 1]
+  I/O Port:                               0000 - 000F
+  I/O Port:                               0080 - 0090
+  I/O Port:                               0094 - 009F
+  I/O Port:                               00C0 - 00DF
+  DMA:                                    4
+
+System speaker ------------------------------------------------------------
+
+  Device Name:                            System speaker
+ [Assigned Resources]
+  I/O Port:                               0061
+ [Alternative 1]
+  I/O Port:                               0061
+
+PCI Bus -------------------------------------------------------------------
+
+  Device Name:                            PCI Bus
+ [Assigned Resources]
+  I/O Port:                               0D00 - FFFF
+  Memory Location:                        000C0000 - 000BFFFF
+ [Alternative 1]
+  I/O Port:                               0000 - 0CF7
+  I/O Port:                               0D00 - FFFF
+  Memory Location:                        000A0000 - 000BFFFF
+  Memory Location:                        000C0000 - 000DFFFF
+  Memory Location:                        CFF00000 - FEBFFFFF
+
+System CMOS/real time clock -----------------------------------------------
+
+  Device Name:                            System CMOS/real time clock
+ [Assigned Resources]
+  I/O Port:                               0070 - 0073
+ [Alternative 1]
+  I/O Port:                               0070 - 0073
+
+System board --------------------------------------------------------------
+
+  Device Name:                            System board
+ [Assigned Resources]
+  Memory Location:                        000CEA00 - 000CFFFF
+  Memory Location:                        CFEE0000 - CFEEFFFF
+  Memory Location:                        FEC00000 - FEC00FFF
+ [Alternative 1]
+  Memory Location:                        000CEA00 - 000CFFFF
+  Memory Location:                        000F0000 - 000F7FFF
+  Memory Location:                        000F8000 - 000FBFFF
+  Memory Location:                        000FC000 - 000FFFFF
+  Memory Location:                        CFEE0000 - CFEEFFFF
+  Memory Location:                        00000000
+  Memory Location:                        00100000 - CFEDFFFF
+  Memory Location:                        CFEF0000 - CFEFFFFF
+  Memory Location:                        FEC00000 - FEC00FFF
+  Memory Location:                        FED10000
+  Memory Location:                        FED20000 - FED8FFFF
+  Memory Location:                        FEE00000
+  Memory Location:                        FFB00000 - FFB7FFFF
+  Memory Location:                        FFF00000
+  Memory Location:                        000E0000 - 000EFFFF
+
+Motherboard resources -----------------------------------------------------
+
+  Device Name:                            Motherboard resources
+ [Assigned Resources]
+  I/O Port:                               0010 - 001F
+  I/O Port:                               0065 - 006F
+  I/O Port:                               00E0 - 00EF
+  IRQ:                                    1114369
+ [Alternative 1]
+  I/O Port:                               0010 - 001F
+  I/O Port:                               0022 - 003F
+  I/O Port:                               0044 - 005F
+  I/O Port:                               0062 - 0063
+  I/O Port:                               0065 - 006F
+  I/O Port:                               0074 - 007F
+  I/O Port:                               0091 - 0093
+  I/O Port:                               00A2 - 00BF
+  I/O Port:                               00E0 - 00EF
+  I/O Port:                               04D0 - 04D1
+  I/O Port:                               0290 - 029F
+  I/O Port:                               0800 - 087F
+  I/O Port:                               0290 - 0294
+  I/O Port:                               0880 - 088F
+
+Motherboard resources -----------------------------------------------------
+
+  Device Name:                            Motherboard resources
+ [Assigned Resources]
+  I/O Port:                               0400 - 04CF
+ [Alternative 1]
+  I/O Port:                               0400 - 04CF
+  I/O Port:                               04D2 - 04FF
+
+Motherboard resources -----------------------------------------------------
+
+  Device Name:                            Motherboard resources
+ [Assigned Resources]
+  Memory Location:                        F4000000 - F7FFFFFF
+ [Alternative 1]
+  Memory Location:                        F4000000 - F7FFFFFF
+
+Numeric data processor ----------------------------------------------------
+
+  Device Name:                            Numeric data processor
+ [Assigned Resources]
+  I/O Port:                               00F0 - 00FF
+ [Alternative 1]
+  I/O Port:                               00F0 - 00FF
+  IRQ:                                    13
+
+SMBIOS DMI ----------------------------------------------------------------
+
+
+BIOS ----------------------------------------------------------------------
+
+  BIOS Vendor:                            Award Software International, Inc.
+  BIOS Version:                           F13
+  BIOS Release Date:                      01/10/2012
+  BIOS Start Segment:                     E000
+  BIOS Size:                              1024 KBytes
+  ISA Support:                            Not Present
+  MCA Support:                            Not Present
+  EISA Support:                           Not Present
+  PCI Support:                            Present
+  PC Card (PCMCIA) Support:               Not Present
+  Plug-and-Play Support:                  Present
+  APM Support:                            Not Present
+  Flash BIOS:                             Present
+  BIOS Shadow:                            Present
+  VL-VESA Support:                        Not Present
+  ESCD Support:                           Not Present
+  Boot from CD:                           Present
+  Selectable Boot:                        Present
+  BIOS ROM Socketed:                      Not Present
+  Boot from PC Card:                      Not Present
+  EDD Support:                            Present
+  NEC PC-98 Support:                      Not Present
+  ACPI Support:                           Present
+  USB Legacy Support:                     Present
+  AGP Support:                            Not Present
+  I2O Boot Support:                       Not Present
+  LS-120 Boot Support:                    Not Present
+  ATAPI ZIP Drive Boot Support:           Not Present
+  IEE1394 Boot Support:                   Not Present
+  Smart Battery Support:                  Not Present
+  BIOS Boot Specification Support:        Present
+  Function key-initiated Network Service Boot Support: Not Present
+  Targeted Content Distribution Support:  Present
+  UEFI Specification Support:             Not Present
+  Virtual Machine:                        Not Present
+
+System --------------------------------------------------------------------
+
+  System Manufacturer:                    Gigabyte Technology Co., Ltd.
+  Product Name:                           EX58-UD5
+  Product Version:                        
+  Product Serial Number:                  
+  SKU Number:                              
+  Family:                                  
+
+Mainboard -----------------------------------------------------------------
+
+  Mainboard Manufacturer:                 Gigabyte Technology Co., Ltd.
+  Mainboard Name:                         EX58-UD5
+  Mainboard Version:                      
+  Mainboard Serial Number:                
+
+System Enclosure ----------------------------------------------------------
+
+  Manufacturer:                           Gigabyte Technology Co., Ltd.
+  Case Type:                              Desktop
+  Version:                                 
+  Serial Number:                           
+  Asset Tag Number:                        
+
+Processor -----------------------------------------------------------------
+
+  Processor Manufacturer:                 Intel
+  Processor Version:                      Intel(R) Core(TM) i7 CPU
+  External Clock:                         133 MHz
+  Maximum Clock Supported:                4000 MHz
+  Current Clock:                          2800 MHz
+  CPU Socket:                             Populated
+  CPU Status:                             Enabled
+  Processor Type:                         Central Processor
+  Processor Voltage:                      1.0 V
+  Processor Upgrade:                      Socket 478
+  Socket Designation:                     Socket 1366
+
+Internal Cache ------------------------------------------------------------
+
+  Socket Designation:                     Internal Cache
+  Cache State:                            Enabled
+  Cache Location:                         Internal
+  Cache Type:                             L1
+  Cache Scheme:                           Write-Back
+  Supported SRAM Type:                    Synchronous
+  Current SRAM Type:                      Synchronous
+  Cache Speed:                            Unknown
+  Error Correction Type:                  Unknown
+  Maximum Cache Size:                     64 KBytes
+  Installed Cache Size:                   64 KBytes
+  Cache Associativity:                    Unknown
+
+External Cache ------------------------------------------------------------
+
+  Socket Designation:                     External Cache
+  Cache State:                            Enabled
+  Cache Location:                         Internal
+  Cache Type:                             L2
+  Cache Scheme:                           Write-Back
+  Supported SRAM Type:                    Synchronous
+  Current SRAM Type:                      Synchronous
+  Cache Speed:                            Unknown
+  Error Correction Type:                  Unknown
+  Maximum Cache Size:                     2048 KBytes
+  Installed Cache Size:                   8192 KBytes
+  Cache Associativity:                    Unknown
+
+BIOS Language -------------------------------------------------------------
+
+
+
+
+
+System Boot Information ---------------------------------------------------
+
+  Boot Status:                            No error occurred
+
+Unknown -------------------------------------------------------------------
+
+
+Memory Devices ------------------------------------------------------------
+
+
+Memory Controller ---------------------------------------------------------
+
+  Error Detecting Method:                 8-bit Parity
+  Error Correction:                       None
+  Supported Interleave:                   1-Way
+  Current Interleave:                     1-Way
+  Max. Memory Module Size:                1024 MBytes
+  Supported Memory Speed:                 
+  Supported Memory Type:                  
+  Supported Memory Voltage:               5 V
+  Associated Memory Slots:                6
+
+A0 ------------------------------------------------------------------------
+
+  Socket Designation:                     A0
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         2048 MBytes
+  Enabled size:                           2048 MBytes
+
+A1 ------------------------------------------------------------------------
+
+  Socket Designation:                     A1
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         2048 MBytes
+  Enabled size:                           2048 MBytes
+
+A2 ------------------------------------------------------------------------
+
+  Socket Designation:                     A2
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         2048 MBytes
+  Enabled size:                           2048 MBytes
+
+A3 ------------------------------------------------------------------------
+
+  Socket Designation:                     A3
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         Not installed
+  Enabled size:                           Not installed
+
+A4 ------------------------------------------------------------------------
+
+  Socket Designation:                     A4
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         4096 MBytes
+  Enabled size:                           4096 MBytes
+
+A5 ------------------------------------------------------------------------
+
+  Socket Designation:                     A5
+  Memory Type:                            
+  Memory Speed:                           Unknown
+  Installed size:                         Not installed
+  Enabled size:                           Not installed
+
+Physical Memory Array -----------------------------------------------------
+
+  Array Location:                         System board
+  Array Use:                              System memory
+  Error Detecting Method:                 None
+  Memory Capacity:                        48 GBytes
+  Memory Devices:                         6
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            2304 bits
+  Data Width:                             2280 bits
+  Device Size:                            2048 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A0
+  Bank Locator:                           Bank0/1
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Memory Speed:                           400 MT/s
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            2304 bits
+  Data Width:                             2280 bits
+  Device Size:                            2048 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A1
+  Bank Locator:                           Bank2/3
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Memory Speed:                           400 MT/s
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            2304 bits
+  Data Width:                             2280 bits
+  Device Size:                            2048 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A2
+  Bank Locator:                           Bank4/5
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Memory Speed:                           400 MT/s
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            Unknown
+  Data Width:                             Unknown
+  Device Size:                            0 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A3
+  Bank Locator:                           Bank6/7
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            256 bits
+  Data Width:                             4 bits
+  Device Size:                            4096 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A4
+  Bank Locator:                           Bank8/9
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Memory Speed:                           800 MT/s
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Device -------------------------------------------------------------
+
+  Total Width:                            Unknown
+  Data Width:                             Unknown
+  Device Size:                            0 MBytes
+  Device Form Factor:                     DIMM
+  Device Locator:                         A5
+  Bank Locator:                           Bank10/11
+  Device Type:                            Unknown
+  Device Type Detail:                     
+  Manufacturer:                            
+  Serial Number:                           
+  Part Number:                             
+  Asset Tag:                               
+
+Memory Array Mapped Address -----------------------------------------------
+
+  Starting Address:                       00000000
+  Ending Address:                         009FFFFF
+  Partition Width:                        1
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00000000
+  Ending Address:                         001FFFFF
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00200000
+  Ending Address:                         003FFFFF
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00400000
+  Ending Address:                         005FFFFF
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00000000
+  Ending Address:                         00000000
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00600000
+  Ending Address:                         009FFFFF
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Memory Device Mapped Address ----------------------------------------------
+
+  Starting Address:                       00000000
+  Ending Address:                         00000000
+  Partition Row Position:                 1
+  Interleave Position:                    Non-interleaved
+  Interleave Data Depth:                  0
+
+Port Connectors -----------------------------------------------------------
+
+
+Port Connector ------------------------------------------------------------
+
+  Port Type:                              Unknown
+  Internal Reference:                     PRIMARY IDE
+  Internal Connector Type:                On Board IDE
+  External Reference:                      
+  External Connector Type:                None
+
+8251 FIFO Compatible ------------------------------------------------------
+
+  Port Type:                              8251 FIFO Compatible
+  Internal Reference:                     FDD
+  Internal Connector Type:                On Board Floppy
+  External Reference:                      
+  External Connector Type:                None
+
+Keyboard Port -------------------------------------------------------------
+
+  Port Type:                              Keyboard Port
+  Internal Reference:                     Keyboard
+  Internal Connector Type:                Unknown
+  External Reference:                      
+  External Connector Type:                PS/2
+
+Mouse Port ----------------------------------------------------------------
+
+  Port Type:                              Mouse Port
+  Internal Reference:                     PS/2 Mouse
+  Internal Connector Type:                PS/2
+  External Reference:                     No Detected
+  External Connector Type:                PS/2
+
+USB -----------------------------------------------------------------------
+
+  Port Type:                              USB
+  Internal Reference:                     USB
+  Internal Connector Type:                None
+  External Reference:                      
+  External Connector Type:                Access Bus (USB)
+
+USB -----------------------------------------------------------------------
+
+  Port Type:                              USB
+  Internal Reference:                     USB
+  Internal Connector Type:                None
+  External Reference:                      
+  External Connector Type:                Access Bus (USB)
+
+System Slots --------------------------------------------------------------
+
+
+PCI -----------------------------------------------------------------------
+
+  Slot Designation:                       PCI
+  Slot Type:                              PCI
+  Slot Usage:                             Empty
+  Slot Data Bus Width:                    32-bit
+  Slot Length:                            Long
+
+PCI -----------------------------------------------------------------------
+
+  Slot Designation:                       PCI
+  Slot Type:                              PCI
+  Slot Usage:                             Empty
+  Slot Data Bus Width:                    32-bit
+  Slot Length:                            Long
+
+Memory --------------------------------------------------------------------
+
+ [General Information]
+  Total Memory Size:                      10 GBytes
+  Total Memory Size [MB]:                 10240
+ [Current Performance Settings]
+  Current Memory Clock:                   666.3 MHz (5 : 1 Ratio)
+  Current Timing (tCAS-tRCD-tRP-tRAS):    9-9-9-27
+  Memory Channels Supported:              3
+  Memory Channels Active:                 3
+  Command Rate (CR):                      2T
+  Read to Read Delay (tRDRD_SG/TrdrdScL) Same Bank Group: 4T
+  Read to Read Delay (tRDRD_DG/TrdrdScDlr) Different Bank Group: 6T
+  Read to Read Delay (tRDRD_DD) Different DIMM: 7T
+  Write to Write Delay (tWRWR_SG/TwrwrScL) Same Bank Group: 4T
+  Write to Write Delay (tWRWR_DG/TwrwrScDlr) Different Bank Group: 7T
+  Write to Write Delay (tWRWR_DD) Different DIMM: 7T
+  Read to Write Delay (tRDWR_SG/TrdwrScL) Same Bank Group: 11T
+  Read to Write Delay (tRDWR_DG/TrdwrScDlr) Different Bank Group: 10T
+  Read to Write Delay (tRDWR_DD) Different DIMM: 10T
+  Write to Read Delay (tWRRD_SG/TwrrdScL) Same Bank Group: 16T
+  Write to Read Delay (tWRRD_DG/TwrrdScDlr) Different Bank Group: 5T
+  Write to Read Delay (tWRRD_DD) Different DIMM: 5T
+  Read to Precharge Delay (tRTP):         5T
+  Write to Precharge Delay (tWTP):        21T
+  Write Recovery Time (tWR):              10T
+  RAS# to RAS# Delay (tRRD):              4T
+  Refresh Cycle Time (tRFC):              60T
+  Four Activate Window (tFAW):            20T
+
+Row: 0 [Bank0/1/A0] - 2 GB PC3-12800 DDR3 SDRAM GeIL CL8-8-8 DDR3-1600 ----
+
+ [General Module Information]
+  Module Number:                          0
+  Module Size:                            2 GBytes
+  Memory Type:                            DDR3 SDRAM
+  Module Type:                            Unbuffered DIMM (UDIMM)
+  Memory Speed:                           800.0 MHz (DDR3-1600 / PC3-12800)
+  Module Manufacturer:                    GeIL
+  Module Part Number:                     CL8-8-8 DDR3-1600
+  Module Revision:                        0
+  Module Serial Number:                   N/A
+  Module Manufacturing Date:              Year: 2009, Week: 40
+  Module Manufacturing Location:          1
+  SDRAM Manufacturer:                     Unknown
+  Error Check/Correction:                 None
+ [Module Characteristics]
+  Row Address Bits:                       14
+  Column Address Bits:                    10
+  Number Of Banks:                        8
+  Module Density:                         1024 Mb
+  Number Of Ranks:                        2
+  Device Width:                           8 bits
+  Bus Width:                              64 bits
+  Module Nominal Voltage (VDD):           1.5 V
+ [Module timing]
+  Minimum SDRAM Cycle Time (tCKmin):      1.500 ns
+  CAS# Latencies Supported:               7, 8
+  Minimum CAS# Latency Time (tAAmin):     10.500 ns
+  Minimum RAS# to CAS# Delay (tRCDmin):   10.500 ns
+  Minimum Row Precharge Time (tRPmin):    10.500 ns
+  Minimum Active to Precharge Time (tRASmin): 36.000 ns
+  Supported Module Timing at 666.7 MHz:   7-7-7-24
+  Minimum Write Recovery Time (tWRmin):   15.000 ns
+  Minimum Row Active to Row Active Delay (tRRDmin): 6.000 ns
+  Minimum Active to Active/Refresh Time (tRCmin): 49.500 ns
+  Minimum Refresh Recovery Time Delay (tRFCmin): 90.000 ns
+  Minimum Internal Write to Read Command Delay (tWTRmin): 7.500 ns
+  Minimum Internal Read to Precharge Command Delay (tRTPmin): 7.500 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 30.000 ns
+ [Features]
+  Partial Array Self Refresh (PASR):      Not Supported
+  On-die Thermal Sensor (ODTS) Readout:   Supported
+  Auto Self Refresh (ASR):                Supported
+  Extended Temperature 1X Refresh Rate:   Not Supported
+  Extended Temperature Range:             Not Supported
+  Module Temperature Sensor:              Not Supported
+  Pseudo Target Row Refresh (pTRR):       Not Supported
+  Module Nominal Height:                  29 - 30 mm
+  Module Maximum Thickness (Front):       1 - 2 mm
+  Module Maximum Thickness (Back):        1 - 2 mm
+ [Intel Extreme Memory Profile (XMP)]
+  XMP Revision:                           1.2
+ [Enthusiast / Certified Profile [Enabled]]
+  Module VDD Voltage Level:               1.60 V
+  CAS# Latencies Supported:               8, 9
+  Minimum SDRAM Cycle Time (tCKmin):      1.250 ns (800.0 MHz)
+  Minimum CAS Latency Time (tAAmin):      10.000 ns
+  Minimum RAS# to CAS# Delay Time (tRCDmin): 10.000 ns
+  Minimum Row Precharge Delay Time (tRPmin): 10.000 ns
+  Minimum Active to Precharge Delay Time (tRASmin): 35.000 ns
+  Minimum CAS Write Latency Time (tCWLmin): 10.000 ns
+  Minimum Write Recovery Time (tWRmin):   12.500 ns
+  Minimum Active to Active/Refresh Delay Time (tRCmin): 46.250 ns
+  Maximum tREFI Time (Average Periodic Refresh Interval): 7.875 us
+  Minimum Refresh Recovery Delay Time (tRFCmin): 110.000 ns
+  Minimum Internal Read to Precharge Command Delay Time (tRTPmin): 7.500 ns
+  Minimum Row Active to Row Active Delay Time (tRRDmin): 6.000 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 5.5 ns
+  Minimum Internal Write to Read Command Delay Time (tWTRmin): 7.500 ns
+  Supported Module Timing at 800.0 MHz:   8-8-8-28
+  Read to Write CMD Turn-around Time Optimization: No adjustment
+  Write to Read CMD Turn-around Time Optimization: No adjustment
+  Back 2 Back CMD Turn-around Time Optimization: No adjustment
+  System Command Rate Mode:               2N
+
+Row: 1 [Bank2/3/A1] - 2 GB PC3-12800 DDR3 SDRAM GeIL CL8-8-8 DDR3-1600 ----
+
+ [General Module Information]
+  Module Number:                          1
+  Module Size:                            2 GBytes
+  Memory Type:                            DDR3 SDRAM
+  Module Type:                            Unbuffered DIMM (UDIMM)
+  Memory Speed:                           800.0 MHz (DDR3-1600 / PC3-12800)
+  Module Manufacturer:                    GeIL
+  Module Part Number:                     CL8-8-8 DDR3-1600
+  Module Revision:                        0
+  Module Serial Number:                   N/A
+  Module Manufacturing Date:              Year: 2009, Week: 40
+  Module Manufacturing Location:          1
+  SDRAM Manufacturer:                     Unknown
+  Error Check/Correction:                 None
+ [Module Characteristics]
+  Row Address Bits:                       14
+  Column Address Bits:                    10
+  Number Of Banks:                        8
+  Module Density:                         1024 Mb
+  Number Of Ranks:                        2
+  Device Width:                           8 bits
+  Bus Width:                              64 bits
+  Module Nominal Voltage (VDD):           1.5 V
+ [Module timing]
+  Minimum SDRAM Cycle Time (tCKmin):      1.500 ns
+  CAS# Latencies Supported:               7, 8
+  Minimum CAS# Latency Time (tAAmin):     10.500 ns
+  Minimum RAS# to CAS# Delay (tRCDmin):   10.500 ns
+  Minimum Row Precharge Time (tRPmin):    10.500 ns
+  Minimum Active to Precharge Time (tRASmin): 36.000 ns
+  Supported Module Timing at 666.7 MHz:   7-7-7-24
+  Minimum Write Recovery Time (tWRmin):   15.000 ns
+  Minimum Row Active to Row Active Delay (tRRDmin): 6.000 ns
+  Minimum Active to Active/Refresh Time (tRCmin): 49.500 ns
+  Minimum Refresh Recovery Time Delay (tRFCmin): 90.000 ns
+  Minimum Internal Write to Read Command Delay (tWTRmin): 7.500 ns
+  Minimum Internal Read to Precharge Command Delay (tRTPmin): 7.500 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 30.000 ns
+ [Features]
+  Partial Array Self Refresh (PASR):      Not Supported
+  On-die Thermal Sensor (ODTS) Readout:   Supported
+  Auto Self Refresh (ASR):                Supported
+  Extended Temperature 1X Refresh Rate:   Not Supported
+  Extended Temperature Range:             Not Supported
+  Module Temperature Sensor:              Not Supported
+  Pseudo Target Row Refresh (pTRR):       Not Supported
+  Module Nominal Height:                  29 - 30 mm
+  Module Maximum Thickness (Front):       1 - 2 mm
+  Module Maximum Thickness (Back):        1 - 2 mm
+ [Intel Extreme Memory Profile (XMP)]
+  XMP Revision:                           1.2
+ [Enthusiast / Certified Profile [Enabled]]
+  Module VDD Voltage Level:               1.60 V
+  CAS# Latencies Supported:               8, 9
+  Minimum SDRAM Cycle Time (tCKmin):      1.250 ns (800.0 MHz)
+  Minimum CAS Latency Time (tAAmin):      10.000 ns
+  Minimum RAS# to CAS# Delay Time (tRCDmin): 10.000 ns
+  Minimum Row Precharge Delay Time (tRPmin): 10.000 ns
+  Minimum Active to Precharge Delay Time (tRASmin): 35.000 ns
+  Minimum CAS Write Latency Time (tCWLmin): 10.000 ns
+  Minimum Write Recovery Time (tWRmin):   12.500 ns
+  Minimum Active to Active/Refresh Delay Time (tRCmin): 46.250 ns
+  Maximum tREFI Time (Average Periodic Refresh Interval): 7.875 us
+  Minimum Refresh Recovery Delay Time (tRFCmin): 110.000 ns
+  Minimum Internal Read to Precharge Command Delay Time (tRTPmin): 7.500 ns
+  Minimum Row Active to Row Active Delay Time (tRRDmin): 6.000 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 5.5 ns
+  Minimum Internal Write to Read Command Delay Time (tWTRmin): 7.500 ns
+  Supported Module Timing at 800.0 MHz:   8-8-8-28
+  Read to Write CMD Turn-around Time Optimization: No adjustment
+  Write to Read CMD Turn-around Time Optimization: No adjustment
+  Back 2 Back CMD Turn-around Time Optimization: No adjustment
+  System Command Rate Mode:               2N
+
+Row: 2 [Bank4/5/A2] - 2 GB PC3-12800 DDR3 SDRAM GeIL CL8-8-8 DDR3-1600 ----
+
+ [General Module Information]
+  Module Number:                          2
+  Module Size:                            2 GBytes
+  Memory Type:                            DDR3 SDRAM
+  Module Type:                            Unbuffered DIMM (UDIMM)
+  Memory Speed:                           800.0 MHz (DDR3-1600 / PC3-12800)
+  Module Manufacturer:                    GeIL
+  Module Part Number:                     CL8-8-8 DDR3-1600
+  Module Revision:                        0
+  Module Serial Number:                   N/A
+  Module Manufacturing Date:              Year: 2009, Week: 40
+  Module Manufacturing Location:          1
+  SDRAM Manufacturer:                     Unknown
+  Error Check/Correction:                 None
+ [Module Characteristics]
+  Row Address Bits:                       14
+  Column Address Bits:                    10
+  Number Of Banks:                        8
+  Module Density:                         1024 Mb
+  Number Of Ranks:                        2
+  Device Width:                           8 bits
+  Bus Width:                              64 bits
+  Module Nominal Voltage (VDD):           1.5 V
+ [Module timing]
+  Minimum SDRAM Cycle Time (tCKmin):      1.500 ns
+  CAS# Latencies Supported:               7, 8
+  Minimum CAS# Latency Time (tAAmin):     10.500 ns
+  Minimum RAS# to CAS# Delay (tRCDmin):   10.500 ns
+  Minimum Row Precharge Time (tRPmin):    10.500 ns
+  Minimum Active to Precharge Time (tRASmin): 36.000 ns
+  Supported Module Timing at 666.7 MHz:   7-7-7-24
+  Minimum Write Recovery Time (tWRmin):   15.000 ns
+  Minimum Row Active to Row Active Delay (tRRDmin): 6.000 ns
+  Minimum Active to Active/Refresh Time (tRCmin): 49.500 ns
+  Minimum Refresh Recovery Time Delay (tRFCmin): 90.000 ns
+  Minimum Internal Write to Read Command Delay (tWTRmin): 7.500 ns
+  Minimum Internal Read to Precharge Command Delay (tRTPmin): 7.500 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 30.000 ns
+ [Features]
+  Partial Array Self Refresh (PASR):      Not Supported
+  On-die Thermal Sensor (ODTS) Readout:   Supported
+  Auto Self Refresh (ASR):                Supported
+  Extended Temperature 1X Refresh Rate:   Not Supported
+  Extended Temperature Range:             Not Supported
+  Module Temperature Sensor:              Not Supported
+  Pseudo Target Row Refresh (pTRR):       Not Supported
+  Module Nominal Height:                  29 - 30 mm
+  Module Maximum Thickness (Front):       1 - 2 mm
+  Module Maximum Thickness (Back):        1 - 2 mm
+ [Intel Extreme Memory Profile (XMP)]
+  XMP Revision:                           1.2
+ [Enthusiast / Certified Profile [Enabled]]
+  Module VDD Voltage Level:               1.60 V
+  CAS# Latencies Supported:               8, 9
+  Minimum SDRAM Cycle Time (tCKmin):      1.250 ns (800.0 MHz)
+  Minimum CAS Latency Time (tAAmin):      10.000 ns
+  Minimum RAS# to CAS# Delay Time (tRCDmin): 10.000 ns
+  Minimum Row Precharge Delay Time (tRPmin): 10.000 ns
+  Minimum Active to Precharge Delay Time (tRASmin): 35.000 ns
+  Minimum CAS Write Latency Time (tCWLmin): 10.000 ns
+  Minimum Write Recovery Time (tWRmin):   12.500 ns
+  Minimum Active to Active/Refresh Delay Time (tRCmin): 46.250 ns
+  Maximum tREFI Time (Average Periodic Refresh Interval): 7.875 us
+  Minimum Refresh Recovery Delay Time (tRFCmin): 110.000 ns
+  Minimum Internal Read to Precharge Command Delay Time (tRTPmin): 7.500 ns
+  Minimum Row Active to Row Active Delay Time (tRRDmin): 6.000 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 5.5 ns
+  Minimum Internal Write to Read Command Delay Time (tWTRmin): 7.500 ns
+  Supported Module Timing at 800.0 MHz:   8-8-8-28
+  Read to Write CMD Turn-around Time Optimization: No adjustment
+  Write to Read CMD Turn-around Time Optimization: No adjustment
+  Back 2 Back CMD Turn-around Time Optimization: No adjustment
+  System Command Rate Mode:               2N
+
+Row: 4 - 4 GB PC3-12800 DDR3 SDRAM Kingston KHX1600C9D3/4GX ---------------
+
+ [General Module Information]
+  Module Number:                          4
+  Module Size:                            4 GBytes
+  Memory Type:                            DDR3 SDRAM
+  Module Type:                            Unbuffered DIMM (UDIMM)
+  Memory Speed:                           800.0 MHz (DDR3-1600 / PC3-12800)
+  Module Manufacturer:                    Kingston
+  Module Part Number:                     KHX1600C9D3/4GX
+  Module Revision:                        0
+  Module Serial Number:                   245177716 (741D9D0E)
+  Module Manufacturing Date:              Year: 2014, Week: 20
+  Module Manufacturing Location:          7
+  SDRAM Manufacturer:                     SK Hynix
+  Error Check/Correction:                 None
+ [Module Characteristics]
+  Row Address Bits:                       16
+  Column Address Bits:                    10
+  Number Of Banks:                        8
+  Module Density:                         4096 Mb
+  Number Of Ranks:                        1
+  Device Width:                           8 bits
+  Bus Width:                              64 bits
+  Module Nominal Voltage (VDD):           1.5 V
+ [Module timing]
+  Minimum SDRAM Cycle Time (tCKmin):      1.250 ns
+  CAS# Latencies Supported:               6, 7, 8, 9, 10, 11
+  Minimum CAS# Latency Time (tAAmin):     13.125 ns
+  Minimum RAS# to CAS# Delay (tRCDmin):   13.125 ns
+  Minimum Row Precharge Time (tRPmin):    13.125 ns
+  Minimum Active to Precharge Time (tRASmin): 35.000 ns
+  Supported Module Timing at 800.0 MHz:   11-11-11-28
+  Supported Module Timing at 666.7 MHz:   9-9-9-24
+  Supported Module Timing at 533.3 MHz:   7-7-7-19
+  Supported Module Timing at 400.0 MHz:   6-6-6-14
+  Minimum Write Recovery Time (tWRmin):   15.000 ns
+  Minimum Row Active to Row Active Delay (tRRDmin): 6.000 ns
+  Minimum Active to Active/Refresh Time (tRCmin): 48.125 ns
+  Minimum Refresh Recovery Time Delay (tRFCmin): 260.000 ns
+  Minimum Internal Write to Read Command Delay (tWTRmin): 7.500 ns
+  Minimum Internal Read to Precharge Command Delay (tRTPmin): 7.500 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 30.000 ns
+ [Features]
+  Partial Array Self Refresh (PASR):      Not Supported
+  On-die Thermal Sensor (ODTS) Readout:   Not Supported
+  Auto Self Refresh (ASR):                Not Supported
+  Extended Temperature 1X Refresh Rate:   Not Supported
+  Extended Temperature Range:             Supported
+  Module Temperature Sensor:              Not Supported
+  Pseudo Target Row Refresh (pTRR):       Not Supported
+  Module Nominal Height:                  29 - 30 mm
+  Module Maximum Thickness (Front):       1 - 2 mm
+  Module Maximum Thickness (Back):        1 - 2 mm
+ [Intel Extreme Memory Profile (XMP)]
+  XMP Revision:                           1.3
+ [Enthusiast / Certified Profile [Enabled]]
+  Module VDD Voltage Level:               1.65 V
+  Memory Controller Voltage Level:        1.20 V
+  CAS# Latencies Supported:               6, 7, 8, 9
+  Minimum SDRAM Cycle Time (tCKmin):      1.250 ns (800.0 MHz)
+  Minimum CAS Latency Time (tAAmin):      11.250 ns
+  Minimum RAS# to CAS# Delay Time (tRCDmin): 11.250 ns
+  Minimum Row Precharge Delay Time (tRPmin): 11.250 ns
+  Minimum Active to Precharge Delay Time (tRASmin): 33.750 ns
+  Minimum CAS Write Latency Time (tCWLmin): 10.000 ns
+  Minimum Write Recovery Time (tWRmin):   15.000 ns
+  Minimum Active to Active/Refresh Delay Time (tRCmin): 45.000 ns
+  Maximum tREFI Time (Average Periodic Refresh Interval): 7.875 us
+  Minimum Refresh Recovery Delay Time (tRFCmin): 260.000 ns
+  Minimum Internal Read to Precharge Command Delay Time (tRTPmin): 7.500 ns
+  Minimum Row Active to Row Active Delay Time (tRRDmin): 6.000 ns
+  Minimum Four Activate Window Delay Time (tFAWmin): 30.0 ns
+  Minimum Internal Write to Read Command Delay Time (tWTRmin): 7.500 ns
+  Supported Module Timing at 800.0 MHz:   9-9-9-27
+  Supported Module Timing at 666.7 MHz:   8-8-8-23
+  Supported Module Timing at 533.3 MHz:   6-6-6-18
+  Read to Write CMD Turn-around Time Optimization: No adjustment
+  Write to Read CMD Turn-around Time Optimization: No adjustment
+  Back 2 Back CMD Turn-around Time Optimization: No adjustment
+  System Command Rate Mode:               Default
+
+Bus -----------------------------------------------------------------------
+
+
+PCI Bus #0 ----------------------------------------------------------------
+
+
+Intel X58 Chipset - ESI Port [B3] -----------------------------------------
+
+ [General Information]
+  Device Name:                            Intel X58 Chipset - ESI Port [B3]
+  Original Device Name:                   Intel X58 Chipset - ESI Port [B3]
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            13 [B3]
+  PCI Address (Bus:Device:Function) Number: 0:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3405&SUBSYS_50001458&REV_13
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x4
+  Current Link Width:                     x4
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ12
+  Interrupt Pin:                          INTA#
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     IO Hub to ESI Port Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3405&SUBSYS_50001458&REV_13\3&13C0B0C5&0&00
+  Location Paths                          PCIROOT(0)#PCI(0000)
+
+Intel 5520/5500/X58/7500 I/O Hub - PCI Express Root Port #3 (x16/x8/x4) ---
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - PCI Express Root Port #3 (x16/x8/x4)
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - PCI Express Root Port #3 (x16/x8/x4)
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:3:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_340A&SUBSYS_00000000&REV_13
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x16
+  Current Link Width:                     x16
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       Yes
+  Hot-Plug:                               Not Capable
+  Hot-Plug Surprise:                      Not Capable
+  Slot Power Limit:                       75.000 W
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   256 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ12
+  Interrupt Pin:                          INTA#
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_340A&SUBSYS_50011458&REV_13\3&13C0B0C5&0&18
+  Location Paths                          PCIROOT(0)#PCI(0300)
+
+PCI Express x16 Bus #1 ----------------------------------------------------
+
+
+GIGABYTE GeForce GTX 960 --------------------------------------------------
+
+ [General Information]
+  Device Name:                            GIGABYTE GeForce GTX 960
+  Original Device Name:                   NVIDIA GeForce GTX 960 (GM206)
+  Device Class:                           VGA Compatible Adapter
+  Revision ID:                            A1
+  PCI Address (Bus:Device:Function) Number: 1:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_10DE&DEV_1401&SUBSYS_36C21458&REV_A1
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x16
+  Current Link Width:                     x16
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Legacy PCI Express Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: None
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   256 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          INTA#
+  Memory Base Address 0                   F9000000
+  Memory Base Address 1                   D0000000
+  Memory Base Address 3                   EE000000
+  I/O Base Address 5                      EF00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    NVIDIA
+  Driver Description:                     NVIDIA GeForce GTX 960
+  Driver Provider:                        NVIDIA
+  Driver Version:                         32.0.15.8097 (GeForce 580.97)
+  Driver Date:                            07-Aug-2025
+  DCH/UWD Driver:                         Capable
+  DeviceInstanceId                        PCI\VEN_10DE&DEV_1401&SUBSYS_36C21458&REV_A1\4&2ABA1BF6&0&0018
+  Location Paths                          PCIROOT(0)#PCI(0300)#PCI(0000)
+
+NVIDIA GM206 - High Definition Audio Controller ---------------------------
+
+ [General Information]
+  Device Name:                            NVIDIA GM206 - High Definition Audio Controller
+  Original Device Name:                   NVIDIA GM206 - High Definition Audio Controller
+  Device Class:                           High Definition Audio
+  Revision ID:                            A1
+  PCI Address (Bus:Device:Function) Number: 1:0:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_10DE&DEV_0FBA&SUBSYS_36C21458&REV_A1
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x16
+  Current Link Width:                     x16
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       PCI Express Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: None
+  Active State Power Management (ASPM) Status: L0s and L1 Entry
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   256 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ17
+  Interrupt Pin:                          INTB#
+  Memory Base Address 0                   FAFFC000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     High Definition Audio Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.6157
+  Driver Date:                            07-Jul-2025
+  DeviceInstanceId                        PCI\VEN_10DE&DEV_0FBA&SUBSYS_36C21458&REV_A1\4&2ABA1BF6&0&0118
+  Location Paths                          PCIROOT(0)#PCI(0300)#PCI(0001)
+
+Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Physical/Link Layer --------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Physical/Link Layer
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Physical/Link Layer
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:16:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3425&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3425&SUBSYS_00000000&REV_13\3&13C0B0C5&0&80
+  Location Paths                          PCIROOT(0)#PCI(1000)
+
+Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Routing & Protocol Layer ---
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Routing & Protocol Layer
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - QPI Port #0 Routing & Protocol Layer
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:16:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3426&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3426&SUBSYS_00000000&REV_13\3&13C0B0C5&0&81
+  Location Paths                          PCIROOT(0)#PCI(1001)
+
+Intel 5520/5500/7500 I/O Hub - QPI Port #1 Physical/Link Layer ------------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/7500 I/O Hub - QPI Port #1 Physical/Link Layer
+  Original Device Name:                   Intel 5520/5500/7500 I/O Hub - QPI Port #1 Physical/Link Layer
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:17:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3427&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3427&SUBSYS_00000000&REV_13\3&13C0B0C5&0&88
+  Location Paths                          PCIROOT(0)#PCI(1100)
+
+Intel 5520/5500/7500 I/O Hub - QPI Port #1 Routing & Protocol Layer -------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/7500 I/O Hub - QPI Port #1 Routing & Protocol Layer
+  Original Device Name:                   Intel 5520/5500/7500 I/O Hub - QPI Port #1 Routing & Protocol Layer
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:17:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3428&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3428&SUBSYS_00000000&REV_13\3&13C0B0C5&0&89
+  Location Paths                          PCIROOT(0)#PCI(1101)
+
+Intel 5520/5500/X58/7500 I/O Hub - IOxAPIC --------------------------------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - IOxAPIC
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - IOxAPIC
+  Device Class:                           I/O(X) APIC
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:19:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_342D&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+  Memory Base Address 0                   FBFFF000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Memory Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_342D&SUBSYS_00000000&REV_13\3&13C0B0C5&0&98
+  Location Paths                          PCIROOT(0)#PCI(1300)
+
+Intel 5520/5500/X58/7500 I/O Hub - Address Mapping, VT-d, Control/Status Registers
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - Address Mapping, VT-d, Control/Status Registers
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - Address Mapping, VT-d, Control/Status Registers
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:20:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_342E&SUBSYS_00000000&REV_13
+ [PCI Express]
+  Version:                                2.0
+  Current Link Width:                     Not negotiated
+  Maximum Link Speed:                     5.0 GT/s
+  Device/Port Type:                       Root Complex Integrated Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        >64 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_342E&SUBSYS_00000000&REV_13\3&13C0B0C5&0&A0
+  Location Paths                          PCIROOT(0)#PCI(1400)
+
+Intel 5520/5500/X58/7500 I/O Hub - Scratchpad/GPIO Registers --------------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - Scratchpad/GPIO Registers
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - Scratchpad/GPIO Registers
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:20:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3422&SUBSYS_00000000&REV_13
+ [PCI Express]
+  Version:                                2.0
+  Current Link Width:                     Not negotiated
+  Maximum Link Speed:                     5.0 GT/s
+  Device/Port Type:                       Root Complex Integrated Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        >64 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3422&SUBSYS_00000000&REV_13\3&13C0B0C5&0&A1
+  Location Paths                          PCIROOT(0)#PCI(1401)
+
+Intel 5520/5500/X58/7500 I/O Hub - IOH Control/Status and RAS Registers ---
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58/7500 I/O Hub - IOH Control/Status and RAS Registers
+  Original Device Name:                   Intel 5520/5500/X58/7500 I/O Hub - IOH Control/Status and RAS Registers
+  Device Class:                           Programmable Interrupt Controller
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:20:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3423&SUBSYS_00000000&REV_13
+ [PCI Express]
+  Version:                                2.0
+  Current Link Width:                     Not negotiated
+  Maximum Link Speed:                     5.0 GT/s
+  Device/Port Type:                       Root Complex Integrated Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        >64 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3423&SUBSYS_00000000&REV_13\3&13C0B0C5&0&A2
+  Location Paths                          PCIROOT(0)#PCI(1402)
+
+Intel 5520/5500/X58 I/O Hub - TXT Control ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel 5520/5500/X58 I/O Hub - TXT Control
+  Original Device Name:                   Intel 5520/5500/X58 I/O Hub - TXT Control
+  Device Class:                           I/O(X) APIC
+  Revision ID:                            13
+  PCI Address (Bus:Device:Function) Number: 0:21:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_342F&SUBSYS_00000000&REV_13
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Registers
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_342F&SUBSYS_00000000&REV_13\3&13C0B0C5&0&A8
+  Location Paths                          PCIROOT(0)#PCI(1500)
+
+Intel ICH10 - USB UHCI Controller #4 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #4 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #4 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:26:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A37&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ16
+  Interrupt Pin:                          INTA#
+  I/O Base Address 4                      FF00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A37
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A37&SUBSYS_50041458&REV_00\3&13C0B0C5&0&D0
+  Location Paths                          PCIROOT(0)#PCI(1A00)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB UHCI Controller #5 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #5 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #5 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:26:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A38&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ21
+  Interrupt Pin:                          INTB#
+  I/O Base Address 4                      FE00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A38
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A38&SUBSYS_50041458&REV_00\3&13C0B0C5&0&D1
+  Location Paths                          PCIROOT(0)#PCI(1A01)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB UHCI Controller #6 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #6 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #6 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:26:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A39&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ18
+  Interrupt Pin:                          INTC#
+  I/O Base Address 4                      FD00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A39
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A39&SUBSYS_50041458&REV_00\3&13C0B0C5&0&D2
+  Location Paths                          PCIROOT(0)#PCI(1A02)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : CHERRY, PID=0118 ------------------------------------------------
+
+ [Device Information]
+  Device Manufacturer:                    Cherry GmbH
+  Product Name:                           CHERRY Wireless Device
+  Serial Number:                          N/A
+  USB Version Supported:                  2.00
+  USB Speed Capable:                      USB 2.0 High-speed
+  USB Speed Connected:                    USB 1.1 Full-speed
+  Maximum Current:                        100 mA
+  Driver Description:                     USB Composite Device
+  Hardware ID:                            USB\VID_046A&PID_0118
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     USB Composite Device
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5794
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        USB\VID_046A&PID_0118\5&2107F3B7&0&1
+  Location Paths                          PCIROOT(0)#PCI(1A02)#USBROOT(0)#USB(1)
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB 2.0 EHCI Controller #2 [A0] -----------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB 2.0 EHCI Controller #2 [A0]
+  Original Device Name:                   Intel ICH10 - USB 2.0 EHCI Controller #2 [A0]
+  Device Class:                           USB EHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:26:7
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A3C&SUBSYS_50061458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ18
+  Interrupt Pin:                          INTC#
+  Memory Base Address 0                   FBFFE000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  2.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3C
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A3C&SUBSYS_50061458&REV_00\3&13C0B0C5&0&D7
+  Location Paths                          PCIROOT(0)#PCI(1A07)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+[Port3] : No Device Connected ---------------------------------------------
+
+
+[Port4] : No Device Connected ---------------------------------------------
+
+
+[Port5] : No Device Connected ---------------------------------------------
+
+
+[Port6] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - High Definition Audio Controller [A0] -----------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - High Definition Audio Controller [A0]
+  Original Device Name:                   Intel ICH10 - High Definition Audio Controller [A0]
+  Device Class:                           High Definition Audio
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:27:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A3E&SUBSYS_A1021458&REV_00
+ [PCI Express]
+  Version:                                1.1
+  Current Link Width:                     Not negotiated
+  Device/Port Type:                       Root Complex Integrated Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: None
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       < 64 ns
+  L1 Exit Latency:                        < 1 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ22
+  Interrupt Pin:                          INTA#
+  Memory Base Address 0                   FBFF8000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     High Definition Audio Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.6157
+  Driver Date:                            07-Jul-2025
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A3E&SUBSYS_A1021458&REV_00\3&13C0B0C5&0&D8
+  Location Paths                          PCIROOT(0)#PCI(1B00)
+
+Intel ICH10 - PCI Express Root Port #1 [A0] -------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - PCI Express Root Port #1 [A0]
+  Original Device Name:                   Intel ICH10 - PCI Express Root Port #1 [A0]
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:28:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A40&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Version:                                1.1
+  Maximum Link Width:                     x1
+  Current Link Width:                     Not negotiated
+  Maximum Link Speed:                     2.5 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       Yes
+  Hot-Plug:                               Capable
+  Hot-Plug Surprise:                      Capable
+  Slot Power Limit:                       10.000 W
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       512 ns - 1 us
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ12
+  Interrupt Pin:                          INTA#
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A40&SUBSYS_50011458&REV_00\3&13C0B0C5&0&E0
+  Location Paths                          PCIROOT(0)#PCI(1C00)
+
+PCI Express x1 Bus #2 -----------------------------------------------------
+
+
+Intel ICH10 - PCI Express Root Port #2 [A0] -------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - PCI Express Root Port #2 [A0]
+  Original Device Name:                   Intel ICH10 - PCI Express Root Port #2 [A0]
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:28:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A42&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Version:                                1.1
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     2.5 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       Yes
+  Hot-Plug:                               Capable
+  Hot-Plug Surprise:                      Capable
+  Slot Power Limit:                       10.000 W
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       128 - 256 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ10
+  Interrupt Pin:                          INTB#
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A42&SUBSYS_50011458&REV_00\3&13C0B0C5&0&E1
+  Location Paths                          PCIROOT(0)#PCI(1C01)
+
+PCI Express x1 Bus #3 -----------------------------------------------------
+
+
+GIGABYTE GBB363 SATA-II RAID Controller -----------------------------------
+
+ [General Information]
+  Device Name:                            GIGABYTE GBB363 SATA-II RAID Controller
+  Original Device Name:                   JMicron Technology JMB363 SATA-II RAID Controller
+  Device Class:                           IDE Controller
+  Revision ID:                            2
+  PCI Address (Bus:Device:Function) Number: 3:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_197B&DEV_2363&SUBSYS_B0001458&REV_02
+ [PCI Express]
+  Version:                                1.1
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     2.5 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Legacy PCI Express Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       >4 us
+  L1 Exit Latency:                        >64 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ17
+  Interrupt Pin:                          INTA#
+  I/O Base Address 0                      DF00
+  I/O Base Address 1                      DE00
+  I/O Base Address 2                      DD00
+  I/O Base Address 3                      DC00
+  I/O Base Address 4                      DB00
+  Memory Base Address 5                   FBBFE000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Standard SATA AHCI Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_197B&DEV_2363&SUBSYS_B0001458&REV_02\4&238ED369&0&00E1
+  Location Paths                          PCIROOT(0)#PCI(1C01)#PCI(0000)
+
+Intel ICH10 - PCI Express Root Port #5 [A0] -------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - PCI Express Root Port #5 [A0]
+  Original Device Name:                   Intel ICH10 - PCI Express Root Port #5 [A0]
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:28:4
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A48&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Version:                                1.1
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     2.5 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       Yes
+  Hot-Plug:                               Capable
+  Hot-Plug Surprise:                      Capable
+  Slot Power Limit:                       10.000 W
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       128 - 256 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ12
+  Interrupt Pin:                          INTA#
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A48&SUBSYS_50011458&REV_00\3&13C0B0C5&0&E4
+  Location Paths                          PCIROOT(0)#PCI(1C04)
+
+PCI Express x1 Bus #4 -----------------------------------------------------
+
+
+RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter -------
+
+ [General Information]
+  Device Name:                            RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Original Device Name:                   RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Device Class:                           Ethernet Adapter
+  Revision ID:                            3
+  PCI Address (Bus:Device:Function) Number: 4:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       PCI Express Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        32 - 64 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ12
+  Interrupt Pin:                          INTA#
+  I/O Base Address 0                      CE00
+  Memory Base Address 2                   FBEFF000
+  Memory Base Address 4                   FBEF8000
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Realtek
+  Driver Description:                     Realtek PCIe GbE Family Controller
+  Driver Provider:                        Realtek
+  Driver Version:                         10.74.1128.2024
+  Driver Date:                            28-Nov-2024
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03\4&525529E&0&00E4
+  Location Paths                          PCIROOT(0)#PCI(1C04)#PCI(0000)
+
+Intel ICH10 - PCI Express Root Port #6 [A0] -------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - PCI Express Root Port #6 [A0]
+  Original Device Name:                   Intel ICH10 - PCI Express Root Port #6 [A0]
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:28:5
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A4A&SUBSYS_00000000&REV_00
+ [PCI Express]
+  Version:                                1.1
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     2.5 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       Root Port of PCI Express Root Complex
+  Slot Implemented:                       Yes
+  Hot-Plug:                               Capable
+  Hot-Plug Surprise:                      Capable
+  Slot Power Limit:                       10.000 W
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       128 - 256 ns
+  L1 Exit Latency:                        2 - 4 us
+  Maximum Payload Size Supported:         128 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         IRQ10
+  Interrupt Pin:                          INTB#
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A4A&SUBSYS_50011458&REV_00\3&13C0B0C5&0&E5
+  Location Paths                          PCIROOT(0)#PCI(1C05)
+
+PCI Express x1 Bus #5 -----------------------------------------------------
+
+
+RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter -------
+
+ [General Information]
+  Device Name:                            RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Original Device Name:                   RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Device Class:                           Ethernet Adapter
+  Revision ID:                            3
+  PCI Address (Bus:Device:Function) Number: 5:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03
+ [PCI Express]
+  Version:                                2.0
+  Maximum Link Width:                     x1
+  Current Link Width:                     x1
+  Maximum Link Speed:                     5.0 GT/s
+  Current Link Speed:                     2.5 GT/s
+  Device/Port Type:                       PCI Express Endpoint
+  Slot Implemented:                       No
+  Emergency Power Reduction:              Not Supported
+  Active State Power Management (ASPM) Support: L0s and L1
+  Active State Power Management (ASPM) Status: Disabled
+  L0s Exit Latency:                       256 - 512 ns
+  L1 Exit Latency:                        32 - 64 us
+  Maximum Payload Size Supported:         256 bytes
+  Maximum Payload Size:                   128 bytes
+  Resizable BAR Support:                  Not Supported
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          INTA#
+  I/O Base Address 0                      BE00
+  Memory Base Address 2                   FBCFF000
+  Memory Base Address 4                   FBCF8000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Realtek
+  Driver Description:                     Realtek PCIe GbE Family Controller
+  Driver Provider:                        Realtek
+  Driver Version:                         10.74.1128.2024
+  Driver Date:                            28-Nov-2024
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03\4&2E680ECD&0&00E5
+  Location Paths                          PCIROOT(0)#PCI(1C05)#PCI(0000)
+
+Intel ICH10 - USB UHCI Controller #1 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #1 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #1 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:29:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A34&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ23
+  Interrupt Pin:                          INTA#
+  I/O Base Address 4                      FC00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A34
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A34&SUBSYS_50041458&REV_00\3&13C0B0C5&0&E8
+  Location Paths                          PCIROOT(0)#PCI(1D00)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB UHCI Controller #2 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #2 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #2 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:29:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A35&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ19
+  Interrupt Pin:                          INTB#
+  I/O Base Address 4                      FB00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A35
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A35&SUBSYS_50041458&REV_00\3&13C0B0C5&0&E9
+  Location Paths                          PCIROOT(0)#PCI(1D01)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB UHCI Controller #3 [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB UHCI Controller #3 [A0]
+  Original Device Name:                   Intel ICH10 - USB UHCI Controller #3 [A0]
+  Device Class:                           USB UHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:29:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A36&SUBSYS_50041458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ18
+  Interrupt Pin:                          INTC#
+  I/O Base Address 4                      FA00
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  1.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Universal Host Controller - 3A36
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A36&SUBSYS_50041458&REV_00\3&13C0B0C5&0&EA
+  Location Paths                          PCIROOT(0)#PCI(1D02)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel ICH10 - USB 2.0 EHCI Controller #1 [A0] -----------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - USB 2.0 EHCI Controller #1 [A0]
+  Original Device Name:                   Intel ICH10 - USB 2.0 EHCI Controller #1 [A0]
+  Device Class:                           USB EHCI Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:29:7
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A3A&SUBSYS_50061458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ23
+  Interrupt Pin:                          INTA#
+  Memory Base Address 0                   FBFFD000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+  USB Version Supported:                  2.0
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3A
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4474
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A3A&SUBSYS_50061458&REV_00\3&13C0B0C5&0&EF
+  Location Paths                          PCIROOT(0)#PCI(1D07)
+
+USB Root Hub --------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+[Port3] : Alcor Micro Hi-Speed 21-in-1 Flash Card Reader/Writer (Internal/External)
+
+ [Device Information]
+  Device Manufacturer:                    Generic
+  Product Name:                           Mass Storage Device
+  Serial Number:                          058F312D81B
+  USB Version Supported:                  2.00
+  USB Speed Capable:                      USB 2.0 High-speed
+  USB Speed Connected:                    USB 2.0 High-speed
+  Maximum Current:                        100 mA
+  Driver Description:                     USB Mass Storage Device
+  Hardware ID:                            USB\VID_058F&PID_6362
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     USB Mass Storage Device
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4355
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        USB\VID_058F&PID_6362\058F312D81B
+  Location Paths                          PCIROOT(0)#PCI(1D07)#USBROOT(0)#USB(3)
+
+[Port4] : No Device Connected ---------------------------------------------
+
+
+[Port5] : No Device Connected ---------------------------------------------
+
+
+[Port6] : No Device Connected ---------------------------------------------
+
+
+Intel 82801IB ICH9 Direct Media Interface Bridge [A0] ---------------------
+
+ [General Information]
+  Device Name:                            Intel 82801IB ICH9 Direct Media Interface Bridge [A0]
+  Original Device Name:                   Intel 82801IB ICH9 Direct Media Interface Bridge [A0]
+  Device Class:                           PCI-to-PCI Bridge
+  Revision ID:                            90
+  PCI Address (Bus:Device:Function) Number: 0:30:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_244E&SUBSYS_00000000&REV_90
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     PCI-to-PCI Bridge
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5607
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_244E&SUBSYS_50001458&REV_90\3&13C0B0C5&0&F0
+  Location Paths                          PCIROOT(0)#PCI(1E00)
+ [Hub Interface 1 Command Control [ICH4/5]]
+  Hub ID [ICH4]:                          0
+  HP Unsupported [ICH5]:                  Enabled
+  Hub Interface Timeslice:                0
+  Hub Interface Width:                    8 bits
+  Hub Interface Rate Valid:               No
+  Hub Interface Rate:                     
+  Maximum Data Bursts Per Packet:         
+ [Secondary PCI Device Hiding [ICH6]]
+  Device 7 Hide:                          Visible
+  Device 6 Hide:                          Visible
+  Device 5 Hide:                          Visible
+  Device 4 Hide:                          Visible
+  Device 3 Hide:                          Visible
+  Device 2 Hide:                          Visible
+  Device 1 Hide:                          Visible
+  Device 0 Hide:                          Visible
+ [PCI Decode Policy [ICH6]]
+  Subtractive Decode Policy:              Disabled
+ [Secondary PCI Device Hiding [ICH4/5]]
+  Device 8 Hide:                          Visible
+  Device 7 Hide:                          Visible
+  Device 6 Hide:                          Visible
+  Device 5 Hide:                          Visible
+  Device 4 Hide:                          Visible
+  Device 3 Hide:                          Visible
+  Device 2 Hide:                          Visible
+  Device 1 Hide:                          Visible
+  Device 0 Hide:                          Visible
+ [Delayed Transaction Control [ICH6]]
+  Discard Delayed Transactions:           Disabled
+  Block Delayed Transactions:             Disabled
+  Maximum Delayed Transactions:           2 Active, 5 pending
+  Auto Flush After Disconnect:            Disabled
+  Never Prefetch:                         Disabled
+  Memory Read Multiple Prefetch:          Enabled
+  Memory Read Line Prefetch:              Enabled
+  Memory Read Prefetch:                   Enabled
+ [ICH/Policy Configuration [ICH2-ICH5]]
+  Prefetch Flush [ICH5]:                  Disabled
+  High Priority PCI:                      Disabled
+  15-16MB Hole:                           Disabled
+  Discard Timer Mode [ICH2]:              128 PCICLKs (4 us)
+  32-Clock Retry [ICH2]/12-Clock Retry [ICH3/4/5]: Disabled
+ [Policy Configuration [ICH5]]
+  Async Reads:                            0
+  PCI Prefetch:                           0
+ [Multi-Transaction Timer]
+  Multi-Transaction Timer Count Value:    0 PCICLKs
+ [Error Command]
+  SERR# On Target Abort Receive:          Disabled
+  SERR# On Delayed Transaction Timeout:   Disabled
+
+PCI Bus #6 ----------------------------------------------------------------
+
+
+Texas Instruments TSB43AB23 1394A-2000 OHCI PHY/Link-Layer Controller -----
+
+ [General Information]
+  Device Name:                            Texas Instruments TSB43AB23 1394A-2000 OHCI PHY/Link-Layer Controller
+  Original Device Name:                   Texas Instruments TSB43AB23 1394A-2000 OHCI PHY/Link-Layer Controller
+  Device Class:                           Firewire (IEEE 1394) Serial Bus
+  Revision ID:                            0
+  PCI Address (Bus:Device:Function) Number: 6:6:0
+  PCI Latency Timer:                      32
+  Hardware ID:                            PCI\VEN_104C&DEV_8024&SUBSYS_10001458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ18
+  Interrupt Pin:                          INTA#
+  Memory Base Address 0                   FBAFF000
+  Memory Base Address 1                   FBAF8000
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Texas Instruments 1394 OHCI Compliant Host Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.1
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_104C&DEV_8024&SUBSYS_10001458&REV_00\4&278CCF74&0&30F0
+  Location Paths                          PCIROOT(0)#PCI(1E00)#PCI(0600)
+
+Intel ICH10R - LPC Bridge [A0] --------------------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10R - LPC Bridge [A0]
+  Original Device Name:                   Intel ICH10R - LPC Bridge [A0]
+  Device Class:                           PCI-to-ISA Bridge
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:31:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A16&SUBSYS_50011458&REV_00
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     LPC Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A16&SUBSYS_50011458&REV_00\3&13C0B0C5&0&F8
+  Location Paths                          PCIROOT(0)#PCI(1F00)
+
+Intel ICH10 - SATA 4-port Controller [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - SATA 4-port Controller [A0]
+  Original Device Name:                   Intel ICH10 - SATA 4-port Controller [A0]
+  Device Class:                           IDE Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:31:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A20&SUBSYS_B0021458&REV_00
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          INTB#
+  I/O Base Address 0                      0
+  I/O Base Address 1                      0
+  I/O Base Address 2                      0
+  I/O Base Address 3                      0
+  I/O Base Address 4                      F900
+  I/O Base Address 5                      F800
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Capable
+  Fast Back-to-Back Transactions:         Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Standard Dual Channel PCI IDE Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A20&SUBSYS_B0021458&REV_00\3&13C0B0C5&0&FA
+  Location Paths                          PCIROOT(0)#PCI(1F02)
+
+Intel ICH10 - SMBus Controller [A0] ---------------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - SMBus Controller [A0]
+  Original Device Name:                   Intel ICH10 - SMBus Controller [A0]
+  Device Class:                           SMBus (System Management Bus)
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:31:3
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A30&SUBSYS_50011458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ7
+  Interrupt Pin:                          INTC#
+  Memory Base Address 0                   FBFFC000
+  I/O Base Address 4                      500
+ [Features]
+  Bus Mastering:                          Disabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     SM Bus Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A30&SUBSYS_50011458&REV_00\3&13C0B0C5&0&FB
+  Location Paths                          PCIROOT(0)#PCI(1F03)
+
+Intel ICH10 - SATA 2-port Controller [A0] ---------------------------------
+
+ [General Information]
+  Device Name:                            Intel ICH10 - SATA 2-port Controller [A0]
+  Original Device Name:                   Intel ICH10 - SATA 2-port Controller [A0]
+  Device Class:                           IDE Controller
+  Revision ID:                            0 [A0]
+  PCI Address (Bus:Device:Function) Number: 0:31:5
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_3A26&SUBSYS_B0021458&REV_00
+ [System Resources]
+  Interrupt Line:                         IRQ19
+  Interrupt Pin:                          INTB#
+  I/O Base Address 0                      F600
+  I/O Base Address 1                      F500
+  I/O Base Address 2                      F400
+  I/O Base Address 3                      F300
+  I/O Base Address 4                      F200
+  I/O Base Address 5                      F100
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Capable
+  Fast Back-to-Back Transactions:         Capable
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Standard Dual Channel PCI IDE Controller
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        PCI\VEN_8086&DEV_3A26&SUBSYS_B0021458&REV_00\3&13C0B0C5&0&FD
+  Location Paths                          PCIROOT(0)#PCI(1F05)
+
+PCI Bus #63 ---------------------------------------------------------------
+
+
+Intel QuickPath Architecture - Generic Non-core (Uncore) Registers [D0] ---
+
+ [General Information]
+  Device Name:                            Intel QuickPath Architecture - Generic Non-core (Uncore) Registers [D0]
+  Original Device Name:                   Intel QuickPath Architecture - Generic Non-core (Uncore) Registers [D0]
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5 [D0]
+  PCI Address (Bus:Device:Function) Number: 63:0:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C41&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Architecture - System Address Decoder (SAD) ---------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Architecture - System Address Decoder (SAD)
+  Original Device Name:                   Intel QuickPath Architecture - System Address Decoder (SAD)
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:0:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C01&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Interconnect - QPI Link 0 Control -------------------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Interconnect - QPI Link 0 Control
+  Original Device Name:                   Intel QuickPath Interconnect - QPI Link 0 Control
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:2:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C10&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Interconnect - QPI Physical 0 Control ---------------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Interconnect - QPI Physical 0 Control
+  Original Device Name:                   Intel QuickPath Interconnect - QPI Physical 0 Control
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:2:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C11&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller -----------------------------------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller
+  Original Device Name:                   Intel QuickPath Memory Controller
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:3:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C18&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Target Address Decoder ----------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Target Address Decoder
+  Original Device Name:                   Intel QuickPath Memory Controller - Target Address Decoder
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:3:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C19&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Test Registers ------------------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Test Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Test Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:3:4
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C1C&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel0 Control Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel0 Control Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel0 Control Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:4:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C20&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel0 Address Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel0 Address Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel0 Address Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:4:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C21&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel0 Rank Registers ---------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel0 Rank Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel0 Rank Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:4:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C22&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel0 Thermal Control --------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel0 Thermal Control
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel0 Thermal Control
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:4:3
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C23&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel1 Control Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel1 Control Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel1 Control Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:5:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C28&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel1 Address Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel1 Address Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel1 Address Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:5:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C29&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel1 Rank Registers ---------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel1 Rank Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel1 Rank Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:5:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C2A&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel1 Thermal Control --------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel1 Thermal Control
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel1 Thermal Control
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:5:3
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C2B&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel2 Control Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel2 Control Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel2 Control Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:6:0
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C30&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel2 Address Registers ------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel2 Address Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel2 Address Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:6:1
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C31&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel2 Rank Registers ---------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel2 Rank Registers
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel2 Rank Registers
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:6:2
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C32&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Intel QuickPath Memory Controller - Channel2 Thermal Control --------------
+
+ [General Information]
+  Device Name:                            Intel QuickPath Memory Controller - Channel2 Thermal Control
+  Original Device Name:                   Intel QuickPath Memory Controller - Channel2 Thermal Control
+  Device Class:                           Host-to-PCI Bridge
+  Revision ID:                            5
+  PCI Address (Bus:Device:Function) Number: 63:6:3
+  PCI Latency Timer:                      0
+  Hardware ID:                            PCI\VEN_8086&DEV_2C33&SUBSYS_50001458&REV_05
+ [System Resources]
+  Interrupt Line:                         N/A
+  Interrupt Pin:                          N/A
+ [Features]
+  Bus Mastering:                          Enabled
+  Running At 66 MHz:                      Not Capable
+  Fast Back-to-Back Transactions:         Not Capable
+
+Video Adapter -------------------------------------------------------------
+
+
+NVIDIA GeForce GTX 960 ----------------------------------------------------
+
+ [Video Chipset]
+  Video Chipset:                          NVIDIA GeForce GTX 960
+  Video Chipset Codename:                 GM206-300
+  Video Memory:                           4096 MBytes of GDDR5 SDRAM [Samsung]
+ [Video Card]
+  Video Card:                             GIGABYTE GeForce GTX 960
+  Video Bus:                              PCIe v2.0 x16 (5.0 GT/s) @ x16 (2.5 GT/s)
+  GPU Type:                               Discrete
+  Video RAMDAC:                           Integrated RAMDAC
+  Video BIOS Version:                     84.06.26.00.11 [UEFI]
+  Video Chipset Revision:                 A1
+ [Performance]
+  Graphics Processor Clock:               135.0 MHz
+  Video Unit Clock:                       405.0 MHz
+  Graphics Memory Clock:                  202.5 MHz (Effective 810.0 MHz)
+  Graphics Memory Bus Width:              128-bit
+  Number Of ROPs:                         32
+  Number Of Unified Shaders:              1024
+  Number Of TMUs (Texture Mapping Units): 64
+  ASIC Manufacturer:                      TSMC
+  ASIC Quality:                           64.3 %
+  ASIC Serial Number:                     215298282961
+  NVIDIA SLI Status:                      Not Present
+  Resizable BAR (ReBAR) Support:          Not Supported
+  Hardware ID:                            PCI\VEN_10DE&DEV_1401&SUBSYS_36C21458&REV_A1
+  PCI Location (Bus:Dev:Fnc):             1:00:0
+ [Driver Information]
+  Driver Manufacturer:                    NVIDIA
+  Driver Description:                     NVIDIA GeForce GTX 960
+  Driver Provider:                        NVIDIA
+  Driver Version:                         32.0.15.8097 (GeForce 580.97)
+  Driver Date:                            07-Aug-2025
+  DCH/UWD Driver:                         Capable
+  DeviceInstanceId                        PCI\VEN_10DE&DEV_1401&SUBSYS_36C21458&REV_A1\4&2ABA1BF6&0&0018
+  Location Paths                          PCIROOT(0)#PCI(0300)#PCI(0000)
+
+Monitor -------------------------------------------------------------------
+
+
+Acer AL1714 ---------------------------------------------------------------
+
+ [General Information]
+  Monitor Name:                           Acer AL1714
+  Monitor Name (Manuf):                   Acer AL1714  
+  Serial Number:                          0            
+  Date Of Manufacture:                    Week: 22, Year: 2003
+  Monitor Hardware ID:                    Monitor\ACRAD18
+  Max. Vertical Size:                     27 cm
+  Max. Horizontal Size:                   34 cm
+  Horizontal Frequency:                   30 - 82 kHz
+  Vertical Frequency:                     50 - 75 Hz
+  Maximum Pixel Clock:                    140 MHz
+ [Advanced parameters]
+  Input Signal:                           Analog: 0.700 V / 0.000 V (0.700 V p-p)
+  Display Type:                           RGB color
+  Gamma Factor:                           2.20
+ [DPMS Modes]
+  Standby:                                Supported
+  Suspend:                                Supported
+  Active Off:                             Supported
+  Standard Colour Space (sRGB) Default:   Supported
+  Preferred Timing Mode:                  Supported
+  Default GTF (Continuous Frequency):     Not Supported
+ [DPMS Input Signal]
+  Serration VSync:                        Not Supported
+  Sync On Green:                          Not Supported
+  Composite Sync:                         Not Supported
+  Separate Syncs:                         Supported
+  Blank-to-black Setup:                   Not Supported
+ [Supported Video Modes]
+  1280 x 1024                             60 Hz
+  1152 x 864                              75 Hz
+  1280 x 1024                             338 x 270 mm, Pixel Clock 108.00 MHz
+ [Chromaticity Coordinates]
+  Red [x,y]:                               0.6426, 0.3516
+  Green [x,y]:                             0.2832, 0.6084
+  Blue [x,y]:                              0.1475, 0.1016
+  White [x,y]:                             0.3135, 0.3291
+ [Color Gamut]
+  sRGB Coverage:                          96.835 %
+  AdobeRGB Coverage:                      71.786 %
+  DCI-P3 Coverage:                        71.384 %
+  NTSC Coverage:                          68.586 %
+  BT.2020 Coverage:                       51.213 %
+  HDR Support:                            Not Supported
+  HDR10+ Support:                         Not Supported
+  AMD FreeSync Support:                   Not Supported
+  NVIDIA G-Sync Support:                  Not Supported
+  HDMI AdaptiveSync Support:              Not Supported
+  VESA AdaptiveSync Support:              Not Supported
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Generic PnP Monitor
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5794
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        DISPLAY\ACRAD18\5&77FC47C&3&UID4864
+
+LG M2762D -----------------------------------------------------------------
+
+ [General Information]
+  Monitor Name:                           LG M2762D
+  Monitor Name (Manuf):                   M2762D       
+  Serial Number:                          16843009
+  Date Of Manufacture:                    Week: 1, Year: 2009
+  Monitor Hardware ID:                    Monitor\GSM576E
+  Max. Vertical Size:                     34 cm
+  Max. Horizontal Size:                   60 cm
+  Horizontal Frequency:                   30 - 83 kHz
+  Vertical Frequency:                     56 - 75 Hz
+  Maximum Pixel Clock:                    170 MHz
+ [Advanced parameters]
+  Input Signal:                           Digital
+  Gamma Factor:                           2.20
+ [DPMS Modes]
+  Standby:                                Supported
+  Suspend:                                Supported
+  Active Off:                             Supported
+  Standard Colour Space (sRGB) Default:   Not Supported
+  Preferred Timing Mode:                  Supported
+  Default GTF (Continuous Frequency):     Not Supported
+  DFP 1.x Compatible:                     No
+ [Supported Video Modes]
+  1280 x 1024                             60 Hz
+  1280 x 1024                             75 Hz
+  1152 x 864                              60 Hz
+  1680 x 1050                             60 Hz
+  1280 x 960                              75 Hz
+  1152 x 864                              75 Hz
+  1920 x 1080                             598 x 336 mm, Pixel Clock 138.50 MHz
+  1680 x 1050                             598 x 336 mm, Pixel Clock 146.25 MHz
+ [Chromaticity Coordinates]
+  Red [x,y]:                               0.6367, 0.3369
+  Green [x,y]:                             0.2979, 0.6133
+  Blue [x,y]:                              0.1475, 0.0566
+  White [x,y]:                             0.3135, 0.3291
+ [Color Gamut]
+  sRGB Coverage:                          102.718 %
+  AdobeRGB Coverage:                      76.146 %
+  DCI-P3 Coverage:                        75.720 %
+  NTSC Coverage:                          72.753 %
+  BT.2020 Coverage:                       54.324 %
+  HDR Support:                            Not Supported
+  HDR10+ Support:                         Not Supported
+  AMD FreeSync Support:                   Not Supported
+  NVIDIA G-Sync Support:                  Not Supported
+  HDMI AdaptiveSync Support:              Not Supported
+  VESA AdaptiveSync Support:              Not Supported
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     Generic PnP Monitor
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5794
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        DISPLAY\GSM576E\5&77FC47C&3&UID4356
+
+Drives --------------------------------------------------------------------
+
+
+(S)ATA/ATAPI Drives -------------------------------------------------------
+
+
+TOSHIBA HDWR440 -----------------------------------------------------------
+
+ [General Information]
+  Drive Controller:                       Serial ATA 6Gb/s @ 3Gb/s
+  Host Controller:                        IDE Channel
+  Drive Model:                            TOSHIBA HDWR440
+  Drive Firmware Revision:                0601
+  Drive Serial Number:                    Y160A07GFZ3G
+  World Wide Name:                        500039B48CA4077
+  Drive Capacity:                         3,815,447 MBytes (4000 GB)
+  Drive Capacity [MB]:                    3815447
+  Media Rotation Rate:                    7200 RPM
+  Nominal Form Factor:                    3.5"
+  ATA Major Version Supported:            ATA/ATAPI-5, ATA/ATAPI-6, ATA/ATAPI-7, ATA8-ACS, ACS-2, ACS-3
+  ATA Minor Version Supported:            ACS-3 Revision 5
+  ATA Transport Version Supported:        SATA 3.3
+  Drive Letter(s):                        D:, E:
+ [Drive Geometry]
+  Number of Cylinders:                    16383
+  Number of Heads:                        16
+  Sectors Per Track:                      63
+  Number of Sectors:                      16514064
+  Total 48-bit LBA Sectors:               7814037168
+  Logical Sector Size:                    512 Bytes
+  Cache Buffer Size:                      N/A
+ [Transfer Modes]
+  Sectors Per Interrupt:                  Total: 16, Active: 16
+  Max. PIO Transfer Mode:                 4
+  Multiword DMA Mode:                     Total: 2, Active: -
+  Singleword DMA Mode:                    Total: 2, Active: -
+  Ultra-DMA Mode:                         Total: 6 (ATA-133), Active: 5 (ATA-100)
+  Max. Multiword DMA Transfer Rate:       16.7 MBytes/s
+  Max. PIO with IORDY Transfer Rate:      16.7 MBytes/s
+  Max. PIO w/o IORDY Transfer Rate:       16.7 MBytes/s
+  Transfer Width:                         16-bit
+  Native Command Queuing:                 Supported, Max. Depth: 32
+  TRIM Command:                           Not Supported
+ [Device flags]
+  Fixed Drive:                            Present
+  Removable Drive:                        Not Present
+  Magnetic Storage:                       Present
+  LBA Mode:                               Supported
+  DMA Mode:                               Supported
+  IORDY:                                  Supported
+  IORDY Disableable:                      Supported
+ [Features]
+  Write Cache:                            Present, Active
+  S.M.A.R.T. Feature:                     Present, Active
+  Security Feature:                       Present, Inactive
+  Removable Media Feature:                Not Present, Disabled
+  Power Management:                       Present, Active
+  Advanced Power Management:              Present, Active
+  Packet Interface:                       Not Present, Disabled
+  Look-Ahead Buffer:                      Present, Active
+  Host Protected Area:                    Present, Enabled
+  Power-Up In Standby:                    Not Supported, Inactive
+  Automatic Acoustic Management:          Not Supported, Inactive
+  48-bit LBA:                             Supported, Active
+  Host-Initiated Link Power Management (HIPM): Supported
+  Device-Initiated Link Power Management (DIPM): Supported, Disabled
+  In-Order Data Delivery:                 Not Supported
+  Hardware Feature Control:               Not Supported
+  Software Settings Preservation:         Supported, Enabled
+  NCQ Autosense:                          Supported
+  Link Power State Device Sleep:          Not Supported
+  Hybrid Information Feature:             Not Supported
+  Rebuild Assist:                         Not Supported
+  Power Disable:                          Not Supported
+  Zoned Device ATA Command Set:           Not Supported
+  All Write Cache Non-Volatile:           Not Supported
+  Extended Number of User Addressable Sectors: Supported
+  CFast Specification:                    Not Supported
+  NCQ Priority Information:               Supported
+  Host Automatic Partial to Slumber Transitions: Supported
+  Device Automatic Partial to Slumber Transitions: Supported
+  NCQ Streaming:                          Not Supported
+  NCQ Queue Management Command:           Not Supported
+  DevSleep to Reduced Power State:        Not Supported
+  Out Of Band Management Interface:       Not Supported
+  Extended Power Conditions Feature:      Supported, Disabled
+  Sense Data Reporting Feature:           Supported, Disabled
+  Free-Fall Control Feature:              Not Supported
+  Write-Read-Verify Feature:              Not Supported
+ [Security]
+  Security Feature:                       Supported
+  Security Status:                        Disabled
+  Security Locked:                        Disabled
+  Security Frozen:                        Enabled
+  Enhanced Security Erase:                Supported
+  Sanitize Feature:                       Supported
+  Sanitize Device - Crypto Scramble:      Not Supported
+  Sanitize Device - Overwrite:            Supported
+  Sanitize Device - Block Erase:          Not Supported
+  Sanitize Device - Antifreeze Lock:      Supported
+  Device Encrypts All User Data:          Not Supported
+  Trusted Computing:                      Not Supported
+ [Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.)]
+  [01] Raw Read Error Rate:               100/50, Worst: 100
+  [02] Throughput Performance:            100/50, Worst: 100
+  [03] Spin Up Time:                      100/1, Worst: 100 (Data = 5921, 0)
+  [04] Start/Stop Count:                  100/Always OK, Worst: 100 (Data = 9598, 0)
+  [05] Reallocated Sector Count:          100/50, Worst: 100
+  [07] Seek Error Rate:                   100/50, Worst: 99
+  [08] Seek Time Performance:             100/50, Worst: 100
+  [09] Power-on Hours/Cycle Count:        66/Always OK, Worst: 66 (13861 hours / 1.58 years)
+  [0A] Spin Retry Count:                  100/30, Worst: 100
+  [0C] Power Cycle Count:                 100/Always OK, Worst: 100 (Data = 2082, 0)
+  [BF] G-Sense Error Rate:                100/Always OK, Worst: 100
+  [C0] Power-Off Retract Count:           99/Always OK, Worst: 99 (Data = 625, 0)
+  [C1] Load/Unload Cycle Count:           99/Always OK, Worst: 99 (Data = 18159, 0)
+  [C2] Temperature:                       100/Always OK, Worst: 100 (32.0 °C)
+  [C4] Reallocation Event Count:          100/Always OK, Worst: 100
+  [C5] Current Pending Sector Count:      100/Always OK, Worst: 100
+  [C6] Off-Line Uncorrectable Sector Count: 100/Always OK, Worst: 100
+  [C7] UltraDMA/SATA CRC Error Rate:      200/Always OK, Worst: 200
+  [DC] Disk Shift:                        100/Always OK, Worst: 100 (Data = 786433, 0)
+  [DE] Loaded Hours:                      83/Always OK, Worst: 83 (Data = 7008, 0)
+  [DF] Load/Unload Retry Count:           100/Always OK, Worst: 100
+  [E0] Load Friction:                     100/Always OK, Worst: 100
+  [E2] Load-In Time:                      100/Always OK, Worst: 100 (Data = 498, 0)
+  [F0] Head Flying Hours:                 100/1, Worst: 100
+ [Device Statistics]
+  Lifetime Power-On Resets:               2082
+  Power-on Hours:                         13861
+  Logical Sectors Written:                27537902835
+  Logical Sectors Read:                   51451684207
+  Number of Write Commands:               143190402
+  Number of Read Commands:                425433472
+  Overlimit Shock Events:                 0
+  Spindle Motor Power-on Hours:           851
+  Head Flying Hours:                      1042
+  Head Load Events:                       18159
+  Number of Reallocated Logical Sectors:  0
+  Read Recovery Attempts:                 0
+  Number of Mechanical Start Failures:    0
+  Number of Reallocation Candidate Logical Sectors: 0
+  Number of High Priority Unload Events:  625
+  Number of Reported Uncorrectable Errors: 0
+  Resets Between Command Acceptance and Completion: 82
+  Current Temperature:                    32 °C
+  Average Short Term Temperature:         32 °C
+  Average Long Term Temperature:          29 °C
+  Operating Temperature Range:            5 - 55 °C
+  Lifetime Temperature:                   8 - 47 °C
+  Lifetime Average Short Term Temperature: 19 - 38 °C
+  Lifetime Average Long Term Temperature: 25 - 31 °C
+  Time in Under-Temperature:              0 minutes
+  Time in Over-Temperature:               0 minutes
+  Number of Hardware Resets:              16383
+  Number of ASR Events:                   4000
+  Number of Interface CRC Errors:         0
+
+Samsung SSD 870 EVO 500GB -------------------------------------------------
+
+ [General Information]
+  Drive Controller:                       Serial ATA 6Gb/s @ 3Gb/s
+  Host Controller:                        IDE Channel
+  Drive Model:                            Samsung SSD 870 EVO 500GB
+  Drive Firmware Revision:                SVT02B6Q
+  Drive Serial Number:                    S7EWNJ0W510524N
+  World Wide Name:                        5002538F3351E681
+  Drive Capacity:                         476,940 MBytes (500 GB)
+  Drive Capacity [MB]:                    476940
+  Media Rotation Rate:                    SSD Drive (Non-rotating)
+  Nominal Form Factor:                    2.5"
+  ATA Major Version Supported:            ATA/ATAPI-5, ATA/ATAPI-6, ATA/ATAPI-7, ATA8-ACS, ACS-4
+  ATA Minor Version Supported:            ACS-4 Revision 5
+  ATA Transport Version Supported:        SATA 3.3
+  Drive Letter(s):                        C:
+ [Drive Geometry]
+  Number of Cylinders:                    16383
+  Number of Heads:                        16
+  Sectors Per Track:                      63
+  Number of Sectors:                      16514064
+  Total 48-bit LBA Sectors:               976773168
+  Logical Sector Size:                    512 Bytes
+  Cache Buffer Size:                      N/A
+ [Transfer Modes]
+  Sectors Per Interrupt:                  Total: 1, Active: 1
+  Max. PIO Transfer Mode:                 4
+  Multiword DMA Mode:                     Total: 2, Active: -
+  Singleword DMA Mode:                    Total: -, Active: -
+  Ultra-DMA Mode:                         Total: 6 (ATA-133), Active: 5 (ATA-100)
+  Max. Multiword DMA Transfer Rate:       16.7 MBytes/s
+  Max. PIO with IORDY Transfer Rate:      16.7 MBytes/s
+  Max. PIO w/o IORDY Transfer Rate:       16.7 MBytes/s
+  Native Command Queuing:                 Supported, Max. Depth: 32
+  TRIM Command:                           Supported (Deterministic Read After TRIM, Words = 0)
+ [Device flags]
+  Fixed Drive:                            Present
+  Removable Drive:                        Not Present
+  Magnetic Storage:                       Present
+  LBA Mode:                               Supported
+  DMA Mode:                               Supported
+  IORDY:                                  Supported
+  IORDY Disableable:                      Supported
+ [Features]
+  Write Cache:                            Present, Active
+  S.M.A.R.T. Feature:                     Present, Active
+  Security Feature:                       Present, Inactive
+  Removable Media Feature:                Not Present, Disabled
+  Power Management:                       Present, Active
+  Advanced Power Management:              Not Present, Inactive
+  Packet Interface:                       Not Present, Disabled
+  Look-Ahead Buffer:                      Present, Active
+  Host Protected Area:                    Present, Enabled
+  Power-Up In Standby:                    Not Supported, Inactive
+  Automatic Acoustic Management:          Not Supported, Inactive
+  48-bit LBA:                             Supported, Active
+  Host-Initiated Link Power Management (HIPM): Not Supported
+  Device-Initiated Link Power Management (DIPM): Supported, Disabled
+  In-Order Data Delivery:                 Not Supported
+  Hardware Feature Control:               Supported, Enabled
+  Software Settings Preservation:         Supported, Enabled
+  NCQ Autosense:                          Not Supported
+  Link Power State Device Sleep:          Supported, Disabled
+  Hybrid Information Feature:             Not Supported
+  Rebuild Assist:                         Not Supported
+  Power Disable:                          Not Supported
+  Zoned Device ATA Command Set:           Not Supported
+  All Write Cache Non-Volatile:           Not Supported
+  Extended Number of User Addressable Sectors: Not Supported
+  CFast Specification:                    Not Supported
+  NCQ Priority Information:               Not Supported
+  Host Automatic Partial to Slumber Transitions: Not Supported
+  Device Automatic Partial to Slumber Transitions: Not Supported
+  NCQ Streaming:                          Not Supported
+  NCQ Queue Management Command:           Not Supported
+  DevSleep to Reduced Power State:        Supported
+  Out Of Band Management Interface:       Not Supported
+  Extended Power Conditions Feature:      Not Supported
+  Sense Data Reporting Feature:           Not Supported
+  Free-Fall Control Feature:              Not Supported
+  Write-Read-Verify Feature:              Supported, Disabled
+ [Security]
+  Security Feature:                       Supported
+  Security Status:                        Disabled
+  Security Locked:                        Disabled
+  Security Frozen:                        Enabled
+  Enhanced Security Erase:                Supported
+  Sanitize Feature:                       Not Supported
+  Sanitize Device - Crypto Scramble:      Not Supported
+  Sanitize Device - Overwrite:            Not Supported
+  Sanitize Device - Block Erase:          Not Supported
+  Sanitize Device - Antifreeze Lock:      Not Supported
+  Device Encrypts All User Data:          Supported
+  Trusted Computing:                      Supported
+ [Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.)]
+  [05] Reallocated Sector Count:          100/10, Worst: 100
+  [09] Power-on Hours/Cycle Count:        97/Always OK, Worst: 97 (10859 hours / 1.24 years)
+  [0C] Power Cycle Count:                 95/Always OK, Worst: 95 (Data = 4420, 0)
+  [B1] Wear Leveling Count:               99/Always OK, Worst: 99 (Data = 14, 0)
+  [B3] Used Reserved Block Count (Total): 100/10, Worst: 100
+  [B5] Program Fail Count (Total):        100/10, Worst: 100
+  [B6] Erase Fail Count (Total):          100/10, Worst: 100
+  [B7] Runtime Bad Block (Total):         100/10, Worst: 100
+  [BB] Uncorrectable Error Count:         100/Always OK, Worst: 100
+  [BE] Airflow Temperature:               64/Always OK, Worst: 45 (36.0 °C)
+  [C3] ECC Error Rate:                    200/Always OK, Worst: 200
+  [C7] SATA CRC Error Count:              99/Always OK, Worst: 99 (Data = 117, 0)
+  [EB] POR Recovery Count:                99/Always OK, Worst: 99 (Data = 244, 0)
+  [F1] Total Host Writes:                 99/Always OK, Worst: 99 (Data = 2622409844, 4)
+  [FC] Unknown                            100/Always OK, Worst: 100 (Data = 80, 0)
+  Drive Remaining Life                    99%
+ [Device Statistics]
+  Lifetime Power-On Resets:               4420
+  Power-on Hours:                         10859
+  Logical Sectors Written:                19802279028
+  Logical Sectors Read:                   26263133429
+  Number of Write Commands:               349379007
+  Number of Read Commands:                365780905
+  Number of Reported Uncorrectable Errors: 0
+  Resets Between Command Acceptance and Completion: 6404
+  Current Temperature:                    36 °C
+  Maximum Operating Temperature:          70 °C
+  Lifetime Temperature:                   18 - 55 °C
+  Number of Hardware Resets:              20351
+  Number of ASR Events:                   0
+  Number of Interface CRC Errors:         117
+  Used Endurance Indicator:               0%
+
+WDC WD40EURX-64WRWY0 ------------------------------------------------------
+
+ [General Information]
+  Drive Controller:                       Serial ATA 6Gb/s @ 3Gb/s
+  Host Controller:                        IDE Channel
+  Drive Model:                            WDC WD40EURX-64WRWY0
+  Drive Firmware Revision:                80.00A80
+  Drive Serial Number:                    WD-WCC4E2PJ0D4P
+  World Wide Name:                        50014EE2C026A44
+  Drive Capacity:                         3,815,447 MBytes (4000 GB)
+  Drive Capacity [MB]:                    3815447
+  Media Rotation Rate:                    5400 RPM
+  ATA Major Version Supported:            ATA/ATAPI-5, ATA/ATAPI-6, ATA/ATAPI-7, ATA8-ACS, ACS-2
+  ATA Transport Version Supported:        SATA 3.0
+  Drive Letter(s):                        G:, H:
+ [Drive Geometry]
+  Number of Cylinders:                    16383
+  Number of Heads:                        16
+  Sectors Per Track:                      63
+  Number of Sectors:                      16514064
+  Total 48-bit LBA Sectors:               7814037168
+  Logical Sector Size:                    512 Bytes
+  Cache Buffer Size:                      N/A
+ [Transfer Modes]
+  Sectors Per Interrupt:                  Total: 16, Active: 16
+  Max. PIO Transfer Mode:                 4
+  Multiword DMA Mode:                     Total: 2, Active: -
+  Singleword DMA Mode:                    Total: -, Active: -
+  Ultra-DMA Mode:                         Total: 6 (ATA-133), Active: 5 (ATA-100)
+  Max. Multiword DMA Transfer Rate:       16.7 MBytes/s
+  Max. PIO with IORDY Transfer Rate:      16.7 MBytes/s
+  Max. PIO w/o IORDY Transfer Rate:       16.7 MBytes/s
+  Native Command Queuing:                 Supported, Max. Depth: 32
+  TRIM Command:                           Not Supported
+ [Device flags]
+  Fixed Drive:                            Present
+  Removable Drive:                        Not Present
+  Magnetic Storage:                       Present
+  LBA Mode:                               Supported
+  DMA Mode:                               Supported
+  IORDY:                                  Supported
+  IORDY Disableable:                      Supported
+ [Features]
+  Write Cache:                            Present, Active
+  S.M.A.R.T. Feature:                     Present, Active
+  Security Feature:                       Present, Inactive
+  Removable Media Feature:                Not Present, Disabled
+  Power Management:                       Present, Active
+  Advanced Power Management:              Not Present, Inactive
+  Packet Interface:                       Not Present, Disabled
+  Look-Ahead Buffer:                      Present, Active
+  Host Protected Area:                    Present, Enabled
+  Power-Up In Standby:                    Supported, Inactive
+  Automatic Acoustic Management:          Not Supported, Inactive
+  48-bit LBA:                             Supported, Active
+  Host-Initiated Link Power Management (HIPM): Supported
+  Device-Initiated Link Power Management (DIPM): Supported, Disabled
+  In-Order Data Delivery:                 Not Supported
+  Hardware Feature Control:               Not Supported
+  Software Settings Preservation:         Supported, Enabled
+  NCQ Autosense:                          Not Supported
+  Link Power State Device Sleep:          Not Supported
+  Hybrid Information Feature:             Not Supported
+  Rebuild Assist:                         Not Supported
+  Power Disable:                          Not Supported
+  Zoned Device ATA Command Set:           Not Supported
+  All Write Cache Non-Volatile:           Not Supported
+  Extended Number of User Addressable Sectors: Not Supported
+  CFast Specification:                    Not Supported
+  NCQ Priority Information:               Supported
+  Host Automatic Partial to Slumber Transitions: Not Supported
+  Device Automatic Partial to Slumber Transitions: Not Supported
+  NCQ Streaming:                          Not Supported
+  NCQ Queue Management Command:           Not Supported
+  DevSleep to Reduced Power State:        Not Supported
+  Out Of Band Management Interface:       Not Supported
+  Extended Power Conditions Feature:      Not Supported
+  Sense Data Reporting Feature:           Not Supported
+  Free-Fall Control Feature:              Not Supported
+  Write-Read-Verify Feature:              Not Supported
+ [Security]
+  Security Feature:                       Supported
+  Security Status:                        Disabled
+  Security Locked:                        Disabled
+  Security Frozen:                        Enabled
+  Enhanced Security Erase:                Supported
+  Sanitize Feature:                       Not Supported
+  Sanitize Device - Crypto Scramble:      Not Supported
+  Sanitize Device - Overwrite:            Not Supported
+  Sanitize Device - Block Erase:          Not Supported
+  Sanitize Device - Antifreeze Lock:      Not Supported
+  Device Encrypts All User Data:          Not Supported
+  Trusted Computing:                      Not Supported
+ [Self-Monitoring, Analysis and Reporting Technology (S.M.A.R.T.)]
+  [01] Raw Read Error Rate:               196/51, Worst: 196 (Data = 19049, 0)
+  [03] Spin Up Time:                      190/21, Worst: 173 (Data = 7491, 0)
+  [04] Start/Stop Count:                  74/Always OK, Worst: 74 (Data = 26363, 0)
+  [05] Reallocated Sector Count:          200/140, Worst: 200
+  [07] Seek Error Rate:                   200/Always OK, Worst: 200
+  [09] Power-on Hours/Cycle Count:        18/Always OK, Worst: 18 (59945 hours / 6.84 years)
+  [0A] Spin Retry Count:                  100/Always OK, Worst: 100
+  [0B] Calibration Retry Count:           100/Always OK, Worst: 100
+  [0C] Power Cycle Count:                 97/Always OK, Worst: 97 (Data = 3910, 0)
+  [C0] Power-Off Retract Count:           200/Always OK, Worst: 200 (Data = 442, 0)
+  [C1] Load/Unload Cycle Count:           192/Always OK, Worst: 192 (Data = 25920, 0)
+  [C2] Temperature:                       111/Always OK, Worst: 80 (41.0 °C)
+  [C4] Reallocation Event Count:          200/Always OK, Worst: 200
+  [C5] Current Pending Sector Count:      200/Always OK, Worst: 200 (Data = 36, 0, 0)
+  [C6] Off-Line Uncorrectable Sector Count: 100/Always OK, Worst: 253
+  [C7] UltraDMA/SATA CRC Error Rate:      200/Always OK, Worst: 200
+  [C8] Write/Multi-Zone Error Rate:       100/Always OK, Worst: 253
+
+HL-DT-ST DVDRAM GH24NSD5 --------------------------------------------------
+
+ [General Information]
+  Drive Model:                            HL-DT-ST DVDRAM GH24NSD5
+  Drive Firmware Revision:                LV00
+  Firmware Date:                          2019-06-12 14:59:  
+  Serial Number:                          KLZM27D3626     
+  Device Type:                            DVD+R DL
+  Drive Letter(s):                        D:, E:
+ [Device Capabilities]
+  Drive can read:                         CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
+  Drive can write:                        CD-R, CD-RW, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-RAM, DVD+R DL
+
+Audio ---------------------------------------------------------------------
+
+
+Intel ICH10 - High Definition Audio Controller [A0] -----------------------
+
+  Audio Adapter:                          Intel ICH10 - High Definition Audio Controller [A0]
+  Audio Controller Hardware ID:           PCI\VEN_8086&DEV_3A3E&SUBSYS_A1021458&REV_00
+  High Definition Audio Codec:            RealTek ALC885/889A/890
+  Audio Codec Hardware ID:                HDAUDIO\FUNC_01&VEN_10EC&DEV_0885&SUBSYS_1458A002&REV_1001
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     High Definition Audio Device
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.3636
+  Driver Date:                            19-Oct-2023
+  DeviceInstanceId                        HDAUDIO\FUNC_01&VEN_10EC&DEV_0885&SUBSYS_1458A002&REV_1001\4&730555E&0&0201
+
+NVIDIA GM206 - High Definition Audio Controller ---------------------------
+
+  Audio Adapter:                          NVIDIA GM206 - High Definition Audio Controller
+  Audio Controller Hardware ID:           PCI\VEN_10DE&DEV_0FBA&SUBSYS_36C21458&REV_A1
+  High Definition Audio Codec:            nVidia
+  Audio Codec Hardware ID:                HDAUDIO\FUNC_01&VEN_10DE&DEV_0072&SUBSYS_145836C2&REV_1001
+ [Driver Information]
+  Driver Manufacturer:                    NVIDIA Corporation
+  Driver Description:                     NVIDIA High Definition Audio
+  Driver Provider:                        NVIDIA Corporation
+  Driver Version:                         1.4.5.0
+  Driver Date:                            01-Jun-2025
+  DeviceInstanceId                        HDAUDIO\FUNC_01&VEN_10DE&DEV_0072&SUBSYS_145836C2&REV_1001\5&DE0A32A&0&0001
+
+Network -------------------------------------------------------------------
+
+
+RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter -------
+
+ [General Information]
+  Network Card:                           RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Vendor Description:                     Unknown
+  MAC Address:                            Unknown
+ [Capabilities]
+  Current Link Speed:                     Unknown
+  Transmit Buffer Size:                   Unknown
+  Receive Buffer Size:                    Unknown
+  Hardware ID:                            PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03
+ [Driver Information]
+  Driver Manufacturer:                    Realtek
+  Driver Description:                     Realtek PCIe GbE Family Controller
+  Driver Provider:                        Realtek
+  Driver Version:                         10.74.1128.2024
+  Driver Date:                            28-Nov-2024
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03\4&525529E&0&00E4
+  Location Paths                          PCIROOT(0)#PCI(1C04)#PCI(0000)
+
+RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter -------
+
+ [General Information]
+  Network Card:                           RealTek Semiconductor RTL8168D/8111D PCI-E Gigabit Ethernet Adapter
+  Vendor Description:                     Realtek PCIe GbE Family Controller
+  MAC Address:                            6C-F0-49-51-0E-80
+ [Capabilities]
+  Maximum Link Speed:                     1 Gbps
+  Current Link Speed:                     1 Gbps
+  Transmit Buffer Size:                   193792 Bytes
+  Receive Buffer Size:                    775168 Bytes
+  Hardware ID:                            PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03
+ [Driver Information]
+  Driver Manufacturer:                    Realtek
+  Driver Description:                     Realtek PCIe GbE Family Controller
+  Driver Provider:                        Realtek
+  Driver Version:                         10.74.1128.2024
+  Driver Date:                            28-Nov-2024
+  DeviceInstanceId                        PCI\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_03\4&2E680ECD&0&00E5
+  Location Paths                          PCIROOT(0)#PCI(1C05)#PCI(0000)
+
+Ports ---------------------------------------------------------------------
+
+
+Serial Ports --------------------------------------------------------------
+
+
+USB -----------------------------------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A39 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : CHERRY, PID=0118 ------------------------------------------------
+
+ [Device Information]
+  Device Manufacturer:                    Cherry GmbH
+  Product Name:                           CHERRY Wireless Device
+  Serial Number:                          N/A
+  USB Version Supported:                  2.00
+  USB Speed Capable:                      USB 2.0 High-speed
+  USB Speed Connected:                    USB 1.1 Full-speed
+  Maximum Current:                        100 mA
+  Driver Description:                     USB Composite Device
+  Hardware ID:                            USB\VID_046A&PID_0118
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     USB Composite Device
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.5794
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        USB\VID_046A&PID_0118\5&2107F3B7&0&1
+  Location Paths                          PCIROOT(0)#PCI(1A02)#USBROOT(0)#USB(1)
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3A -----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+[Port3] : Alcor Micro Hi-Speed 21-in-1 Flash Card Reader/Writer (Internal/External)
+
+ [Device Information]
+  Device Manufacturer:                    Generic
+  Product Name:                           Mass Storage Device
+  Serial Number:                          058F312D81B
+  USB Version Supported:                  2.00
+  USB Speed Capable:                      USB 2.0 High-speed
+  USB Speed Connected:                    USB 2.0 High-speed
+  Maximum Current:                        100 mA
+  Driver Description:                     USB Mass Storage Device
+  Hardware ID:                            USB\VID_058F&PID_6362
+ [Driver Information]
+  Driver Manufacturer:                    Microsoft
+  Driver Description:                     USB Mass Storage Device
+  Driver Provider:                        Microsoft
+  Driver Version:                         10.0.19041.4355
+  Driver Date:                            21-Jun-2006
+  DeviceInstanceId                        USB\VID_058F&PID_6362\058F312D81B
+  Location Paths                          PCIROOT(0)#PCI(1D07)#USBROOT(0)#USB(3)
+
+[Port4] : No Device Connected ---------------------------------------------
+
+
+[Port5] : No Device Connected ---------------------------------------------
+
+
+[Port6] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Enhanced Host Controller - 3A3C -----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+[Port3] : No Device Connected ---------------------------------------------
+
+
+[Port4] : No Device Connected ---------------------------------------------
+
+
+[Port5] : No Device Connected ---------------------------------------------
+
+
+[Port6] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A35 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A36 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A37 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A38 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
+
+Intel(R) ICH10 Family USB Universal Host Controller - 3A34 ----------------
+
+
+Root Hub ------------------------------------------------------------------
+
+
+[Port1] : No Device Connected ---------------------------------------------
+
+
+[Port2] : No Device Connected ---------------------------------------------
+
